@@ -1,0 +1,10 @@
+_site
+.sass-cache
+.jekyll-metadata
+.DS_Store
+node_modules/
+project/
+public/js/
+*.map
+*.old
+
