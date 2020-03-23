@@ -8,15 +8,15 @@ take it is voluntary. Free will does not mean that you can establish the
 curriculum. It means only that you may elect what you want to take at a
 given time.
 
-2 The course does not aim at teaching the meaning of love, for that is
+<sup>2</sup> The course does not aim at teaching the meaning of love, for that is
 beyond what can be taught. It does aim, however, at removing the blocks
 to the awareness of love's presence, which is your natural inheritance.
 The opposite of love is fear, but what is all-encompassing can have no
 opposite.
 
-3 This course can therefore be summed up very simply in this way:
+<sup>3</sup> This course can therefore be summed up very simply in this way:
 
-4 *Nothing real can be threatened.*<br/>*Nothing unreal exists.*
+<sup>4</sup> *Nothing real can be threatened.*<br/>*Nothing unreal exists.*
 
-5 Herein lies the peace of God.
+<sup>5</sup> Herein lies the peace of God.
 

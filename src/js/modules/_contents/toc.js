@@ -5,15 +5,6 @@ const uiTocModal = ".toc.ui.modal";
 const uiOpenTocModal = ".toc-modal-open";
 const uiModalOpacity = 0.5;
 
-//generate html for questions
-function renderQuestions(questions) {
-  return `
-    <div class="list">
-      ${questions.map(q => `<a class="item" href="${q.url}">${q.title}</a>`).join("")}
-    </div>
-  `;
-}
-
 /*
   format links to Raj ACIM Sessions
 */
@@ -31,9 +22,9 @@ function renderRaj(links) {
 */
 function renderSections(base, sections, cidx) {
   return `
-    <div id="chapter${cidx + 1}" data-sections="${sections.length - 1}" class="list">
+    <div id="c${cidx}" data-sections="${sections.length}" class="list">
       ${sections.map((q, qidx) => `
-        <a data-secid="${(cidx + 1) * 100 + qidx}" class="item"
+        <a data-secid="${qidx}" class="item"
           href="${base}${q.url}">${q.ref?q.ref+" ":""}${q.title}
         </a>
       `).join("")}
@@ -62,7 +53,6 @@ function makeContents(contents) {
       ${contents.map(unit => `
         <div class="item">
           <a href="${unit.url}">${unit.title}</a>
-          ${unit.questions ? renderQuestions(unit.questions) : "" }
         </div>
       `).join("")}
     </div>
@@ -80,7 +70,7 @@ function makeTextContents(contents) {
       ${contents.map((unit, cidx) => `
         <div class="item">
           <div class="header">${unit.id ? `${unit.id}: `:""}${unit.title}</div>
-          ${unit.sections ? renderSections(unit.base, unit.sections, cidx - 2) : "" }
+          ${unit.sections ? renderSections(unit.base, unit.sections, cidx) : "" }
         </div>
       `).join("")}
     </div>
@@ -162,38 +152,41 @@ function makeManualContents(base, pages) {
 }
 
 /*
-  set Prev/Next menu controls
-*/
-function textNexPrev($el) {
-  //determind next and previous sections
-  //setup
-  let secid = parseInt($el.attr("data-secid"), 10);
-  let chapter = Math.trunc(secid/100);
-  let section = secid%100;
-  let id = `#chapter${chapter}`;
-  let lastSection = parseInt($(id).attr("data-sections"), 10);
-  let nextChapter = chapter;
-  let nextSection;
+  Attributes on the table of contents, id, data-secid, and data-sections, are used
+  to determine the next and previous pages and to update the "arrow" controls on the
+  menu bar.
 
-  //next, set chapter = -1 if new value is invalid
-  if (section === lastSection) {
+  See renderSections() for how attributes are assigned
+ */
+function textnp($el) {
+  let section = parseInt($el.attr("data-secid"), 10);
+  let chapId = $el.parent().attr("id");
+  let chapter = parseInt(chapId.substring(1), 10);
+  let numberOfSections = parseInt($(`#${chapId}`).attr("data-sections"), 10);
+
+  let nextChapter = chapter;
+  let nextSection = section;
+  let prevChapter = chapter;
+  let prevSection = section;
+
+  //** find next section **
+  //check if we're at the last section of the chapter
+  if (section === numberOfSections - 1) {
     nextChapter = chapter < 31 ? chapter + 1: -1;
     nextSection = 0;
   }
   else {
-    nextSection = section + 1;
+    nextSection = nextSection + 1;
   }
 
-  //prev
-  let prevChapter = chapter;
-  let prevSection;
-
+  //** find prev section */
   if (section === 0) {
-    if (chapter > 1) {
+    if (chapter > 0) {
       prevChapter = chapter - 1;
-      prevSection = parseInt($(`#chapter${prevChapter}`).attr("data-sections"), 10);
+      prevSection = parseInt($(`#c${prevChapter}`).attr("data-sections"), 10) - 1;
     }
     else {
+      //we can't go back any further
       prevChapter = -1;
       prevSection = -1;
     }
@@ -202,38 +195,41 @@ function textNexPrev($el) {
     prevSection = section - 1;
   }
 
+  // console.log("chapId: %s, chapter: %s, section: %s, numberOfSections: %s", chapId, chapter, section,  numberOfSections);
+  // console.log("nextChapter: %s, nextSection: %s", nextChapter, nextSection);
+  // console.log("prevChapter: %s, prevSection: %s", prevChapter, prevSection);
+
+  //set the next control on the page
+  //disable 'next-page'
   if (nextChapter === -1) {
-    //disable 'next-page'
     $("#next-page-menu-item").addClass("disabled");
   }
   else {
     //incase the control has been disabled
     $("#next-page-menu-item").removeClass("disabled");
-    let nextSecid = nextChapter * 100 + nextSection;
 
-    let nexthref = $(`a[data-secid="${nextSecid}"]`).attr("href");
-    let nextText = $(`a[data-secid="${nextSecid}"]`).text();
+    let nextHref = $(`#c${nextChapter} a[data-secid="${nextSection}"]`).attr("href");
+    let nextText = $(`#c${nextChapter} a[data-secid="${nextSection}"]`).text();
 
     //set next tooltip and href
     $("#next-page-menu-item > span").attr("data-tooltip", `${nextText}`);
-    $("#next-page-menu-item").attr("href", `${nexthref}`);
+    $("#next-page-menu-item").attr("href", `${nextHref}`);
   }
 
+  //disable 'prev-page'
   if (prevChapter === -1) {
-    //disable 'prev-page'
     $("#previous-page-menu-item").addClass("disabled");
   }
   else {
     //incase the control has been disabled
     $("#previous-page-menu-item").removeClass("disabled");
-    let prevSecid = prevChapter * 100 + prevSection;
 
-    let prevhref = $(`a[data-secid="${prevSecid}"]`).attr("href");
-    let prevText = $(`a[data-secid="${prevSecid}"]`).text();
+    let prevHref = $(`#c${prevChapter} a[data-secid="${prevSection}"]`).attr("href");
+    let prevText = $(`#c${prevChapter} a[data-secid="${prevSection}"]`).text();
 
     //set prev tooltip and href
     $("#previous-page-menu-item > span").attr("data-tooltip", `${prevText}`);
-    $("#previous-page-menu-item").attr("href", `${prevhref}`);
+    $("#previous-page-menu-item").attr("href", `${prevHref}`);
   }
 }
 
@@ -354,7 +350,7 @@ function highlightCurrentTranscript(bid, setNextPrev = true) {
     //set prev/next menu links
     switch(bid) {
       case "text":
-        textNexPrev($el);
+        textnp($el);
         break;
       case "workbook":
         workbookNextPrev($el);

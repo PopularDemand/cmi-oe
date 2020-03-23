@@ -7,7 +7,7 @@ const transcript = require("./key");
 
 //change these values to reflect transcript info
 const AWS_BUCKET = "assets.christmind.info";
-const SOURCE_ID = "acimoe";
+const SOURCE_ID = "oe";
 const SOURCE = "A Course In Miracles";
 
 //mp3 and audio timing base directories
@@ -167,16 +167,11 @@ export function loadConfig(book) {
 /*
   get audio info from config file
 */
-function _getAudioInfo(idx, cIdx) {
+function _getAudioInfo(cIdx, sIdx) {
   let audioInfo;
 
-  if (idx.length === 4) {
-    let qIdx = parseInt(idx[3].substr(1), 10) - 1;
-    audioInfo = config.contents[cIdx].questions[qIdx];
-  }
-  else {
-    audioInfo = config.contents[cIdx];
-  }
+  audioInfo = config.contents[cIdx].sections[sIdx];
+
   return audioInfo ? audioInfo: {};
 }
 
@@ -199,18 +194,27 @@ export function getAudioInfo(url) {
 
   let audioInfo = {};
   let cIdx;
-  let lookup = [];
+  let sIdx;
 
   switch(idx[2]) {
     //no audio
-    case "text":
     case "workbook":
     case "manual":
     case "acq":
       break;
-    default:
-      cIdx = parseInt(idx[3].substr(1), 10) - 1;
-      audioInfo = _getAudioInfo(idx, cIdx);
+    case "text":
+      //get indexes into config object from page name: ie: chap0406
+      let [,,, chapter, unit] = idx;
+
+      if (chapter === "front") {
+        cIdx = 0;
+        sIdx = unit === "forward"? 0: 1;
+      }
+      else {
+        cIdx = parseInt(unit.substring(4,6),10);
+        sIdx = parseInt(unit.substring(6),10) - 1; //
+      }
+      audioInfo = _getAudioInfo(cIdx, sIdx);
       break;
   }
 

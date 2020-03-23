@@ -5,22 +5,17 @@
   "contents": [
     {
       "id": "",
-      "title": "Forward",
-      "base": "/t/acimoe/text/",
+      "title": "Front Matter",
+      "base": "/t/acimoe/text/front/",
       "sections": [
         {
           "url": "forward/",
           "title": "Forward"
-        }
-      ]
-    },
-    {
-      "id": "",
-      "title": "Introduction",
-      "base": "/t/acimoe/text/",
-      "sections": [
+        },
         {
           "url": "intro/",
+          "audio": "/text/intro.mp3",
+          "timing": "/text/intro.json",
           "title": "Introduction"
         }
       ]
@@ -32,10 +27,14 @@
       "sections": [
         {
           "title": "Tx.1.I. Principles of Miracles",
+          "audio": "/text/01/chap0101.mp3",
+          "timer": "",
           "url": "chap0101/"
         },
         {
           "title": "Tx.1.II. Distortions of Miracle Impulses",
+          "audio": "/text/01/chap0102.mp3",
+          "timer": "",
           "url": "chap0102/"
         }
       ]
@@ -47,27 +46,39 @@
       "sections": [
         {
           "url": "chap0201/",
-          "title": "Tx.2.I. Introduction"
+          "title": "Tx.2.I. Introduction",
+          "audio": "/text/02/chap0201.mp3",
+          "timer": ""
         },
         {
           "url": "chap0202/",
-          "title": "Tx.2.II. The Reinterpretation of Defenses"
+          "title": "Tx.2.II. The Reinterpretation of Defenses",
+          "audio": "/text/02/chap0202.mp3",
+          "timer": ""
         },
         {
           "url": "chap0203/",
-          "title": "Tx.2.III. Healing as Release from Fear"
+          "title": "Tx.2.III. Healing as Release from Fear",
+          "audio": "/text/02/chap0203.mp3",
+          "timer": ""
         },
         {
           "url": "chap0204/",
-          "title": "Tx.2.IV. Fear as Lack of Love"
+          "title": "Tx.2.IV. Fear as Lack of Love",
+          "audio": "/text/02/chap0204.mp3",
+          "timer": ""
         },
         {
           "url": "chap0205/",
-          "title": "Tx.2.V. The Correction for Lack of Love"
+          "title": "Tx.2.V. The Correction for Lack of Love",
+          "audio": "/text/02/chap0205.mp3",
+          "timer": ""
         },
         {
           "url": "chap0206/",
-          "title": "Tx.2.VI. The Meaning of the Last Judgement"
+          "title": "Tx.2.VI. The Meaning of the Last Judgement",
+          "audio": "/text/02/chap0206.mp3",
+          "timer": ""
         }
       ]
     },
@@ -78,39 +89,57 @@
       "sections": [
         {
           "url": "chap0301/",
-          "title": "Tx.3.I. Introduction"
+          "title": "Tx.3.I. Introduction",
+          "audio": "/text/03/chap0301.mp3",
+          "timer": ""
         },
         {
           "url": "chap0302/",
-          "title": "Tx.3.II. Special Principles for Miracle Workers"
+          "title": "Tx.3.II. Special Principles for Miracle Workers",
+          "audio": "/text/03/chap0302.mp3",
+          "timer": ""
         },
         {
           "url": "chap0303/",
-          "title": "Tx.3.III. Atonement without Sacrifice"
+          "title": "Tx.3.III. Atonement without Sacrifice",
+          "audio": "/text/03/chap0303.mp3",
+          "timer": ""
         },
         {
           "url": "chap0304/",
-          "title": "Tx.3.IV. Miracles as Accurate Perception"
+          "title": "Tx.3.IV. Miracles as Accurate Perception",
+          "audio": "/text/03/chap0304.mp3",
+          "timer": ""
         },
         {
           "url": "chap0305/",
-          "title": "Tx.3.V. Perception Versus Knowledge"
+          "title": "Tx.3.V. Perception Versus Knowledge",
+          "audio": "/text/03/chap0305.mp3",
+          "timer": ""
         },
         {
           "url": "chap0306/",
-          "title": "Tx.3.VI. Conflict and the Ego"
+          "title": "Tx.3.VI. Conflict and the Ego",
+          "audio": "/text/03/chap0306.mp3",
+          "timer": ""
         },
         {
           "url": "chap0307/",
-          "title": "Tx.3.VII. The Loss of Certainty"
+          "title": "Tx.3.VII. The Loss of Certainty",
+          "audio": "/text/03/chap0307.mp3",
+          "timer": ""
         },
         {
           "url": "chap0308/",
-          "title": "Tx.3.VIII. Judgement and the Authority Problem"
+          "title": "Tx.3.VIII. Judgement and the Authority Problem",
+          "audio": "/text/03/chap0308.mp3",
+          "timer": ""
         },
         {
           "url": "chap0309/",
-          "title": "Tx.3.IX. Creating versus the Self-Image"
+          "title": "Tx.3.IX. Creating versus the Self-Image",
+          "audio": "/text/03/chap0309.mp3",
+          "timer": ""
         }
       ]
     },

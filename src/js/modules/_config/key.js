@@ -32,46 +32,46 @@ const prefix = "/t/acimoe";
 
 //list the books, these correspond to collection names defined in _config.yml
 // * order according to how search results and bookmarks should appear
-const books = ["preface", "text", "workbook", "manual", "acq"];
+const books = ["text", "workbook", "manual", "acq"];
 const bookIds = ["xxx", ...books];
 
 //list the chapters or parts that make up each book, set the first item to 'xxx'
 const acq = ["xxx", "welcome", "acim", "web", "raj"];
-const preface = ["xxx", "preface"];
 
+//removed the "xxx" first element of the array
 const text = [ "xxx", "forward", "intro", "chap0101", "chap0102", "chap0201", "chap0202", "chap0203", "chap0204",
-"chap0205", "chap0206", "chap0301", "chap0302", "chap0303", "chap0304", "chap0305", "chap0306",
-"chap0307", "chap0308", "chap0309", "chap0401", "chap0402", "chap0403", "chap0404", "chap0405",
-"chap0406", "chap0407", "chap0408", "chap0409", "chap0501", "chap0502", "chap0503", "chap0504",
-"chap0505", "chap0506", "chap0507", "chap0508", "chap0509", "chap0601", "chap0602", "chap0603",
-"chap0604", "chap0605", "chap0701", "chap0702", "chap0703", "chap0704", "chap0705", "chap0706",
-"chap0707", "chap0708", "chap0709", "chap0710", "chap0711", "chap0712", "chap0801", "chap0802",
-"chap0803", "chap0804", "chap0805", "chap0806", "chap0807", "chap0808", "chap0809", "chap0810",
-"chap0811", "chap0901", "chap0902", "chap0903", "chap0904", "chap0905", "chap0906", "chap0907",
-"chap0908", "chap0909", "chap0910", "chap0911", "chap1001", "chap1002", "chap1003", "chap1004",
-"chap1005", "chap1006", "chap1007", "chap1008", "chap1101", "chap1102", "chap1103", "chap1104",
-"chap1105", "chap1106", "chap1107", "chap1108", "chap1109", "chap1110", "chap1201", "chap1202",
-"chap1203", "chap1204", "chap1205", "chap1206", "chap1207", "chap1301", "chap1302", "chap1303",
-"chap1304", "chap1305", "chap1306", "chap1307", "chap1308", "chap1309", "chap1401", "chap1402",
-"chap1403", "chap1404", "chap1405", "chap1406", "chap1407", "chap1501", "chap1502", "chap1503",
-"chap1504", "chap1505", "chap1506", "chap1507", "chap1508", "chap1509", "chap1510", "chap1511",
-"chap1601", "chap1602", "chap1603", "chap1604", "chap1605", "chap1606", "chap1607", "chap1608",
-"chap1701", "chap1702", "chap1703", "chap1704", "chap1705", "chap1706", "chap1707", "chap1708",
-"chap1709", "chap1801", "chap1802", "chap1803", "chap1804", "chap1805", "chap1806", "chap1807",
-"chap1808", "chap1809", "chap1810", "chap1811", "chap1901", "chap1902", "chap1903", "chap1904",
-"chap1905", "chap2001", "chap2002", "chap2003", "chap2004", "chap2005", "chap2006", "chap2007",
-"chap2008", "chap2009", "chap2101", "chap2102", "chap2103", "chap2104", "chap2105", "chap2106",
-"chap2107", "chap2108", "chap2109", "chap2201", "chap2202", "chap2203", "chap2204", "chap2205",
-"chap2206", "chap2207", "chap2301", "chap2302", "chap2303", "chap2304", "chap2305", "chap2401",
-"chap2402", "chap2403", "chap2404", "chap2405", "chap2406", "chap2407", "chap2408", "chap2501",
-"chap2502", "chap2503", "chap2504", "chap2505", "chap2506", "chap2507", "chap2508", "chap2509",
-"chap2510", "chap2601", "chap2602", "chap2603", "chap2604", "chap2605", "chap2606", "chap2607",
-"chap2608", "chap2609", "chap2610", "chap2611", "chap2701", "chap2702", "chap2703", "chap2704",
-"chap2705", "chap2706", "chap2707", "chap2708", "chap2709", "chap2801", "chap2802", "chap2803",
-"chap2804", "chap2805", "chap2806", "chap2807", "chap2808", "chap2901", "chap2902", "chap2903",
-"chap2904", "chap2905", "chap2906", "chap2907", "chap2908", "chap2909", "chap2910", "chap3001",
-"chap3002", "chap3003", "chap3004", "chap3005", "chap3006", "chap3007", "chap3008", "chap3009",
-"chap3101", "chap3102", "chap3103", "chap3104", "chap3105", "chap3106", "chap3107", "chap3108"
+  "chap0205", "chap0206", "chap0301", "chap0302", "chap0303", "chap0304", "chap0305", "chap0306",
+  "chap0307", "chap0308", "chap0309", "chap0401", "chap0402", "chap0403", "chap0404", "chap0405",
+  "chap0406", "chap0407", "chap0408", "chap0409", "chap0501", "chap0502", "chap0503", "chap0504",
+  "chap0505", "chap0506", "chap0507", "chap0508", "chap0509", "chap0601", "chap0602", "chap0603",
+  "chap0604", "chap0605", "chap0701", "chap0702", "chap0703", "chap0704", "chap0705", "chap0706",
+  "chap0707", "chap0708", "chap0709", "chap0710", "chap0711", "chap0712", "chap0801", "chap0802",
+  "chap0803", "chap0804", "chap0805", "chap0806", "chap0807", "chap0808", "chap0809", "chap0810",
+  "chap0811", "chap0901", "chap0902", "chap0903", "chap0904", "chap0905", "chap0906", "chap0907",
+  "chap0908", "chap0909", "chap0910", "chap0911", "chap1001", "chap1002", "chap1003", "chap1004",
+  "chap1005", "chap1006", "chap1007", "chap1008", "chap1101", "chap1102", "chap1103", "chap1104",
+  "chap1105", "chap1106", "chap1107", "chap1108", "chap1109", "chap1110", "chap1201", "chap1202",
+  "chap1203", "chap1204", "chap1205", "chap1206", "chap1207", "chap1301", "chap1302", "chap1303",
+  "chap1304", "chap1305", "chap1306", "chap1307", "chap1308", "chap1309", "chap1401", "chap1402",
+  "chap1403", "chap1404", "chap1405", "chap1406", "chap1407", "chap1501", "chap1502", "chap1503",
+  "chap1504", "chap1505", "chap1506", "chap1507", "chap1508", "chap1509", "chap1510", "chap1511",
+  "chap1601", "chap1602", "chap1603", "chap1604", "chap1605", "chap1606", "chap1607", "chap1608",
+  "chap1701", "chap1702", "chap1703", "chap1704", "chap1705", "chap1706", "chap1707", "chap1708",
+  "chap1709", "chap1801", "chap1802", "chap1803", "chap1804", "chap1805", "chap1806", "chap1807",
+  "chap1808", "chap1809", "chap1810", "chap1811", "chap1901", "chap1902", "chap1903", "chap1904",
+  "chap1905", "chap2001", "chap2002", "chap2003", "chap2004", "chap2005", "chap2006", "chap2007",
+  "chap2008", "chap2009", "chap2101", "chap2102", "chap2103", "chap2104", "chap2105", "chap2106",
+  "chap2107", "chap2108", "chap2109", "chap2201", "chap2202", "chap2203", "chap2204", "chap2205",
+  "chap2206", "chap2207", "chap2301", "chap2302", "chap2303", "chap2304", "chap2305", "chap2401",
+  "chap2402", "chap2403", "chap2404", "chap2405", "chap2406", "chap2407", "chap2408", "chap2501",
+  "chap2502", "chap2503", "chap2504", "chap2505", "chap2506", "chap2507", "chap2508", "chap2509",
+  "chap2510", "chap2601", "chap2602", "chap2603", "chap2604", "chap2605", "chap2606", "chap2607",
+  "chap2608", "chap2609", "chap2610", "chap2611", "chap2701", "chap2702", "chap2703", "chap2704",
+  "chap2705", "chap2706", "chap2707", "chap2708", "chap2709", "chap2801", "chap2802", "chap2803",
+  "chap2804", "chap2805", "chap2806", "chap2807", "chap2808", "chap2901", "chap2902", "chap2903",
+  "chap2904", "chap2905", "chap2906", "chap2907", "chap2908", "chap2909", "chap2910", "chap3001",
+  "chap3002", "chap3003", "chap3004", "chap3005", "chap3006", "chap3007", "chap3008", "chap3009",
+  "chap3101", "chap3102", "chap3103", "chap3104", "chap3105", "chap3106", "chap3107", "chap3108"
 ];
 
 const workbook = ["xxx", "introp1", "l001", "l002", "l003", "l004", "l005", "l006", "l007", "l008", "l009",
@@ -114,14 +114,14 @@ const manual = ["xxx", "chap01", "chap02", "chap03", "chap04", "chap05", "chap06
 
 const contents = {
   acq: acq,
-  preface: preface,
   text: text,
   workbook: workbook,
   manual: manual
 };
 
 /*
-  return the position of unit in the bid array
+  return the position of unit in the bid array to calculate
+  the pageKey.
     arg: section is passed when bid = text
 */
 function getUnitId(t, source, bid, unit, section) {
@@ -417,6 +417,7 @@ module.exports = {
   getSourceId: getSourceId,
   getKeyInfo: getKeyInfo,
   parseKey: parseKey,
+  getUnitId: getUnitId,
   genPageKey: genPageKey,
   genParagraphKey: genParagraphKey,
   decodeKey: decodeKey,

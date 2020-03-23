@@ -49,9 +49,6 @@ collections:
   manual:
     output: true
     title: "A Course in Miracles: Manual"
-  preface:
-    output: true
-    title: "Preface to the ACIM Original Edition"
 
 defaults:
   - scope:
@@ -75,7 +72,7 @@ defaults:
       image-width: 612
       image-height: 792
       bid: "text"
-      audio: false
+      audio: true
   - scope:
       path: ""
       type: workbook
@@ -97,17 +94,6 @@ defaults:
       image-width: 612
       image-height: 792
       bid: "manual"
-      audio: false
-  - scope:
-      path: ""
-      type: preface
-    values:
-      layout: transcript
-      book: "Preface"
-      image: "/t/acimoe/public/img/acim/preface.jpg"
-      image-width: 612
-      image-height: 792
-      bid: "preface"
       audio: false
 
 exclude: [
