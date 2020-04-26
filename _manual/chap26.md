@@ -1,74 +1,53 @@
 ---
-title: Are "Phychic" Powers Desirable?
+title: Can God be Reached Directly?
 ---
 
-The answer to this question is much like the preceding one. There are,
-of course, no “unnatural” powers, and it is obviously merely an appeal
-to magic to make up a power that does not exist. It is equally obvious,
-however, that each individual has many abilities of which he is unaware.
-As his awareness increases, he may well develop abilities that seem
-quite startling to him. Yet nothing he can do can compare even in the
-slightest with the glorious surprise of remembering Who he is. Let all
-his learning and all his efforts be directed toward this one great final
-surprise, and he will not be content to be delayed by the little ones
-that may come to him on the way.
+26\. Can God be Reached Directly?
+{: .lesson-header}
 
-Certainly there are many “psychic” powers that are clearly in line with
-this course. Communication is not limited to the small range of channels
-the world recognizes. If it were, there would be little point in trying
-to teach salvation. It would be impossible to do so. The limits the world
-places on communication is the chief barrier to direct experience of the
-Holy Spirit, Whose Presence is always there and Whose Voice is available
-but for the hearing. These limits are placed out of fear, for without
-them the walls that surround all the separate places of the world would
-fall at the holy sound of His Voice. Who transcends these limits in any
-way is merely becoming more natural. He is doing nothing special, and
-there is no magic in his accomplishments.
+God indeed can be reached directly, for there is no distance between Him
+and His Son. His awareness is in everyone's memory, and His Word is
+written on everyone's heart. Yet this awareness and this memory can
+arise across the threshold of the unconscious only where all barriers to
+truth have been removed. In how many is this the case? Here then is the
+role of God's teachers. They too have not attained the necessary
+understanding as yet, but they have joined with others. This is what
+sets them apart from the world. And it is this that enables others to
+leave the world with them. Alone they are nothing. But in their joining
+is the Power of God.
 
-The seemingly new abilities that may be gathered on the way can be very
-helpful. Given to the Holy Spirit, and used under His direction, they
-are valuable teaching aids. To this, the question of how they arise is
-irrelevant. The only important consideration is how they are used. Taking
-them as ends in themselves, no matter how this is done, will delay
-progress. Nor does their value lie in proving anything; achievements
-from the past, unusual attunement with the “unseen,” or special favors
-from God. God gives no special favors, and no-one has any powers that
-are not available to everyone. Only by tricks of magic are special
-powers “demonstrated.”
+<sup>2</sup> There are those who have reached God directly, retaining no
+trace of worldly limits and remembering their own Identity perfectly.
+These might be called the teachers of teachers, because, although they
+are no longer visible, their image can yet be called upon. And they will
+appear when and where it is helpful for them to do so. To those to whom
+such appearances would be frightening, they give their ideas. No one can
+call on them in vain. Nor is there anyone of whom they are unaware. All
+needs are known to them, and all mistakes are recognized and overlooked
+by them. The time will come when this is understood. And meanwhile they
+give all their gifts to the teachers of God who look to them for help,
+asking all things in their name and in no other.
 
-Nothing that is genuine is used to deceive. The Holy Spirit is incapable
-of deception, and He can use only genuine abilities. What
-is used for magic is useless to Him, but what He uses cannot be used for
-magic. There is, however, a particular appeal in unusual abilities which
-can be curiously tempting. Here are strengths which the Holy Spirit
-wants and needs. Yet the ego sees in these same strengths an opportunity
-to glorify itself. Strengths turned to weakness are tragedy indeed. Yet
-what is not given to the Holy Spirit must be given to weakness, for what
-is withheld from love is given to fear and will be fearful in
-consequence.
+<sup>3</sup> Sometimes a teacher of God may have a brief experience of
+direct union with God. In this world, it is almost impossible that this
+endure. It can, perhaps, be won after much devotion and dedication and
+then be maintained for most of the time on earth. But this is so rare
+that it cannot be considered a realistic goal. If it happens, so be it.
+If it does not happen, so be it as well. All worldly states must be
+illusory. If God were reached directly in sustained awareness, the body
+would not be long maintained. Those who have laid the body down merely
+to extend their helpfulness to those remaining behind are few indeed.
+And they need helpers who are still in bondage and still asleep, so that
+by their awakening can God's Voice be heard.
 
-Even those who no longer value the material things of the world may
-still be deceived by “psychic” powers. As investment has been withdrawn
-from the world’s material gifts the ego has been seriously threatened.
-It may still be strong enough to rally under this new temptation to win
-back strength by guile. Many have not seen through the ego’s defences
-here, although they are not particularly subtle. Yet, given a remaining
-wish to be deceived, deception is made easy. Now the “power” is no
-longer a genuine ability, and cannot be used dependably. It is almost
-inevitable that, unless the individual changes his mind about its
-purpose, he will bolster its uncertainties with increasing deception.
-
-Any ability that anyone develops has the potentiality for good. To this
-there is no exception. And the more unusual and unexpected the power,
-the greater its potential usefulness. Salvation has need of all
-abilities, for what the world would destroy the Holy Spirit would
-restore. “Psychic” abilities have been used to call upon the devil,
-which merely means to strengthen the ego. Yet here is also a great
-channel of hope and healing in the Holy Spirit’s service. Those who have
-developed “psychic” powers have simply let some of the limitations they
-laid upon their minds be lifted. It can be but greater limitations they
-lay upon themselves if they utilize their increased freedom for greater
-imprisonment. The Holy Spirit needs these gifts, and those who offer them
-to Him and Him alone go with Christ’s gratitude upon their hearts, and
-His holy sight not far behind.
+<sup>4</sup> Do not despair, then, because of limitations. It is your
+function to escape from them, but not to be without them. If you would
+be heard by those who suffer, you must speak their language. If you
+would be saviors, you must understand what needs to be escaped.
+Salvation is not theoretical. Behold the problem, ask for the answer,
+and then accept it when it comes. Nor will its coming be long delayed.
+All the help you can accept will be provided, and not one need you have
+will not be met. Let us not, then, be too concerned with goals for which
+you are not ready. God takes you where you are and welcomes you. What
+more could you desire, when this is all you need?
 

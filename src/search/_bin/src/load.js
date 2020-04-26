@@ -6,7 +6,7 @@ const key = require("../../../js/modules/_config/key");
 var local = "http://localhost:8000";
 var remote = "https://dynamodb.us-east-1.amazonaws.com";
 
-var table = "acim2";
+var table = "acimoe";
 
 var awsConfig = {
   region: "us-east-1"
@@ -59,7 +59,7 @@ function load(table, fileName, verify) {
     return;
   }
 
-  let url = `/${data.book}/${data.unit}/`;
+  let url = `/t/acimoe/${data.book}/${data.unit}/`;
   let pageKey = key.genPageKey(url);
 
   data.paragraph.forEach((p) => {

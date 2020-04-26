@@ -1,61 +1,69 @@
 ---
-title: What is Justice?
+title: What is the Peace of God?
 ---
 
-Justice is the divine correction for injustice. Injustice is the basis
-for all the judgements of the world. Justice corrects the
-interpretations to which injustice gives rise, and cancels them out.
-Neither justice nor injustice exists in Heaven, for error is impossible
-and correction meaningless. In this world, however, forgiveness depends
-on justice, since all attack can only be unjust. Justice is the Holy
-Spirit’s verdict upon the world. Except in His judgement, justice is
-impossible. For no-one in the world is capable of making only just
-interpretations and laying all injustices aside. If God’s Son were
-fairly judged, there would be no need for salvation. The thought of
-separation would have been forever inconceivable.
+20\. What is the Peace of God?
+{: .lesson-header}
 
-Justice, like its opposite, is an interpretation. It is, however, the
-one interpretation that leads to truth. This becomes possible because,
-while it is not true in itself, justice includes nothing that opposes
-truth. There is no inherent conflict between justice and truth; one is
-but the first small step in the direction of the other. The path becomes
-quite different as one goes along. Nor could all the magnificence, the
-grandeur of the scene and the enormous opening vistas that rise to meet
-one as he travels on, be foretold from the outset. Yet even these, whose
-splendor reaches indescribable heights as one proceeds, falls short
-indeed of all that waits when the pathway ceases and time ends with it.
-But somewhere one must start. Justice is the beginning.
+It has been said that there is a kind of peace that is not of this
+world. How is it recognized? How is it found? And being found, how can
+it be retained? Let us consider each of these questions separately, for
+each reflects a different step along the way.
 
-All concepts of your brothers and yourself; all fears of future states
-and all concern about the past stem from injustice. Here is the lens
-which, held before the body’s eyes distorts perception and brings
-witness of the distorted world back to the mind that made the lens and
-holds it very dear. Selectively and arbitrarily is every concept of the
-world built up just this way. “Sins” are perceived and justified by this
-careful selectivity, in which all thought of wholeness must be lost.
-Forgiveness has no place in such a scheme, for not one “sin” but seems
-forever true.
+<sup>2</sup> First, how can the peace of God be recognized? God's peace
+is recognized at first by just one thing—in every way it is totally
+unlike all previous experiences. It calls to mind nothing that went
+before. It brings with it no past associations. It is a new thing
+entirely. There is a contrast, yes, between this thing and all the past.
+But strangely, it is not a contrast of true differences. The past just
+slips away and in its place is everlasting quiet. Only that. The
+contrast first perceived has merely gone. Quiet has reached to cover
+everything.
 
-Salvation is God’s justice. It restores to your awareness the wholeness
-of the fragments you perceived as broken off and separate.
-And it is this that overcomes the fear of death. For separate fragments
-must decay and die, but wholeness is immortal. It remains forever and
-forever like its Creator, being one with Him. God’s Judgement is His
-justice. Onto this, – a judgement wholly lacking in condemnation; an
-evaluation based entirely on love, – you have projected your injustice,
-attributing to God the lens of warped perception through which you look.
-Now it belongs to Him and not to you. You are afraid of Him, and do not
-see you hate and fear your Self as enemy.
+<sup>3</sup> How is this quiet found? No one can fail to find it who but
+seeks out its conditions. God's peace can never come where anger is, for
+anger must deny that peace exists. Who sees anger as justified in any
+way or any circumstance proclaims that peace is meaningless and must
+believe that it cannot exist. In this condition peace cannot be found.
+Therefore forgiveness is the necessary condition for finding the peace
+of God. More than this, given forgiveness there must be peace. For what
+except attack will lead to war? And what but peace is opposite to war?
+Here the initial contrast stands out clear and apparent. Yet when peace
+is found, the war is meaningless. And it is conflict now that is
+perceived as non-existent and unreal.
 
-Pray for God’s justice, and do not confuse His mercy with your own
-insanity. Perception can make whatever picture the mind desires to see.
-Remember this. In this lies either Heaven or hell, as you elect. God’s
-justice points to Heaven just because it is entirely impartial. It
-accepts all evidence that is brought before it, omitting nothing and
-assessing nothing as separate and apart from all the rest. From this one
-standpoint does it judge, and this alone. Here all attack and
-condemnation becomes meaningless and indefensible. Perception rests, the
-mind is still, and light returns again. Vision is now restored. What had
-been lost has now been found. The peace of God descends on all the world
-and we can see. And we can see!
+<sup>4</sup> How is the peace of God retained once it is found?
+Returning anger, in whatever form, will drop the heavy curtain once
+again, and the belief that peace cannot exist will certainly return. War
+is again accepted as the one reality. Now must you once again lay down
+your sword, although you may not recognize that you have picked it up
+again. But you will learn, as you remember even faintly now what
+happiness was yours without it, that you must have taken it again as
+your defense. Stop for a moment now and think of this: is conflict what
+you want, or is God's peace the better choice? Which gives you more? A
+tranquil mind is not a little gift. Would you not rather live than
+choose to die?
+
+<sup>5</sup> Living is joy, but death can only weep. You see in death
+escape from what you made. But this you do not see—that you made death,
+and it is but illusion of an end. Death cannot be escape, because it is
+not life in which the problem lies. Life has no opposite, for it is God.
+Life and death seem to be opposites, because you have decided that death
+ends life. Forgive the world, and you will understand that everything
+which God created cannot have an end, and nothing He did not create is
+real. In this one sentence is our course explained. In this one sentence
+is our practicing given its one direction. And in this the Holy Spirit's
+whole curriculum is specified exactly as it is.
+
+<sup>6</sup> What is the peace of God? No more than this—the simple
+understanding that His Will is wholly without opposite. There is no
+thought that contradicts His Will yet can be true. The contrast between
+His Will and yours but seemed to be reality. In truth there is no
+conflict, because His Will is yours. Now is the mighty Will of God
+Himself His gift to you. He does not seek to keep it for Himself. Why
+would you seek to keep your tiny, frail imaginings apart from Him? The
+Will of God is one and all there is. This is your heritage. The universe
+beyond the sun and stars and all the thoughts of which you can conceive
+belong to you. God's peace is the condition for His Will. Attain His
+peace, and you remember Him.
 

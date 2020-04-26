@@ -1,48 +1,71 @@
 ---
-title: Is Healing Certain?
+title: Should Healing be Repeated?
 ---
 
-Healing is always certain. It is impossible to let illusions be brought
-to truth and keep the illusions. Truth demonstrates illusions have no
-value. The teacher of God has seen the correction of his errors in the
-mind of the patient, recognizing it for what it is. Having accepted the
-Atonement for himself, he has also accepted it for the patient. Yet what
-if the patient uses sickness as a way of life, believing healing is the
-way to death? When this is so, a sudden healing might precipitate
-intense depression, and a sense of loss so deep that the patient might
-even try to destroy himself. Having nothing to live for, he may ask for
-death. Healing must wait for his protection.
+7\. Should Healing be Repeated?
+{: .lesson-header}
 
-Healing will always stand aside when it would be seen as threat. The
-instant it is welcome it is there. Where healing has been given, it will
-be received. And what is time before the gifts of God? We have referred
-many times in the text to the storehouse of treasures laid up equally
-for the giver and the receiver of God’s gifts. Not one is lost, for they
-can but increase. No teacher of God should feel disappointed if he has
-offered healing and it does not appear to have been received. It is not
-up to him to judge when his gift should be accepted. Let him be certain
-it has been received, and trust that it will be accepted when it is
-recognized as a blessing and not a curse.
+This question really answers itself. Healing cannot be repeated. If the
+patient is healed, what remains to heal him from? And if the healing is
+certain, as we have already said it is, what is there to repeat? For a
+teacher of God to remain concerned about the result of healing is to
+limit the healing. It is now the teacher of God himself whose mind needs
+to be healed. And it is this he must facilitate. He is now the patient,
+and he must so regard himself. He has made a mistake and must be willing
+to change his mind about it. He lacked the trust that makes for giving
+truly, and so he has not received the benefit of his gift.
 
-It is not the function of God’s teachers to evaluate the outcome of
-their gifts. It is merely their function to give them. Once they have
-done that, they have also given the outcome, for that is part of the
-gift. No-one can give if he is concerned with the result of the giving.
-That is a limitation on the giving itself, and neither the giver nor the
-receiver would have the gift. Trust is an essential part of giving; in
-fact, it is the part that makes sharing possible, the part that
-guarantees the giver will not lose but only gain. Who gives a gift and
-then remains with it to be sure it is used as the giver deems
-appropriate? Such is not giving but imprisoning.
+<sup>2</sup> Whenever a teacher of God has tried to be a channel for
+healing, he has succeeded. Should he be tempted to doubt this, he should
+not repeat his previous effort. That was already maximal, because the
+Holy Spirit so accepted it and so used it. Now the teacher of God has
+only one course to follow. He must use his reason to tell himself that
+he has given the problem to One Who cannot fail, and recognize that his
+own uncertainty is not love but fear and therefore hate. His position
+has thus become untenable, for he is offering hate to one to whom he
+offered love. This is impossible. Having offered love, only love can be
+received.
 
-It is the relinquishing of all concern about the gift that makes it
-truly given. And it is trust that makes true giving possible. Healing is
-the change of mind that the Holy Spirit in the patient’s mind is seeking
-for him. And it is the Holy Spirit in the mind of the giver
-Who gives the gift to Him. How can it be lost ? How can it be
-ineffectual? How can it be wasted? God’s treasure house can never be
-empty. And if one gift were missing it would not be full. Yet is its
-fullness guaranteed by God. What concern, then, can a teacher of God
-have about what becomes of his gifts? Given by God to God, who in this
-holy exchange can receive less than everything?
+<sup>3</sup> It is in this that the teacher of God must trust. This is
+what is really meant by the statement that the one responsibility of the
+miracle worker is to accept the Atonement for himself. The teacher of
+God is a miracle worker because he gives the gifts he has received. Yet
+he must first accept them. He need do no more, nor is there more that he
+could do. By accepting healing, he can give it. If he doubts this, let
+him remember Who gave the gift and Who received it. Thus is his doubt
+corrected. He thought the gifts of God could be withdrawn. That was a
+mistake, but hardly one to stay with. And so the teacher of God can only
+recognize it for what it is and let it be corrected for him.
+
+<sup>4</sup> One of the most difficult temptations to recognize is that
+to doubt a healing because of the appearance of continuing symptoms is a
+mistake in the form of lack of trust. As such, it is an attack. Usually
+it seems to be just the opposite. It does appear unreasonable at first
+to be told that continued concern is attack. It has all the appearances
+of love. Yet love without trust is impossible, and doubt and trust
+cannot coexist. And hate must be the opposite of love, regardless of the
+form it takes. Doubt not the gift, and it is impossible to doubt its
+result. This is the certainty that gives God's teachers the power to be
+miracle workers, for they have put their trust in Him.
+
+<sup>5</sup> The real basis for doubt about the outcome of any problem
+that has been given to God's Teacher for resolution is always
+self-doubt. And that necessarily implies that trust has been placed in
+an illusory self, for only such a self can be doubted. This illusion can
+take many forms. Perhaps there is a fear of weakness and vulnerability.
+Perhaps there is a fear of failure and shame associated with a sense of
+inadequacy. Perhaps there is a guilty embarrassment stemming from false
+humility. The form of the mistake is not important. What is important is
+only the recognition of a mistake as a mistake.
+
+<sup>6</sup> The mistake is always some form of concern with the self to
+the exclusion of the patient. It is a failure to recognize him as part
+of the self and thus represents a confusion in identity. Conflict about
+what you are has entered your mind, and you have become deceived about
+yourself. And you are deceived about yourself, because you have denied
+the Source of your creation. If you are offering only healing, you
+cannot doubt. If you really want the problem solved, you cannot doubt.
+If you are certain what the problem is, you cannot doubt. Doubt is the
+result of conflicting wishes. Be sure of what you want, and doubt
+becomes impossible.
 

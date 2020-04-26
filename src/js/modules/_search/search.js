@@ -1,5 +1,5 @@
 
-const searchEndpoint = "https://d9lsdwxpfg.execute-api.us-east-1.amazonaws.com/latest/acim";
+const searchEndpoint = "https://d9lsdwxpfg.execute-api.us-east-1.amazonaws.com/latest/acimoe";
 import axios from "axios";
 import { showSavedQuery, showSearchResults } from "./show";
 import {showSearchMatch} from "www/modules/_util/url";
@@ -95,13 +95,13 @@ function search(query) {
       else {
         notify.info(`Search for ${query} didn't find any matches`);
       }
-      searchAudit("ACIM", searchBody.query, response.data.count);
+      searchAudit("ACIMOE", searchBody.query, response.data.count);
       document.getElementById("search-input-field").focus();
     })
     .catch((error) => {
       console.error("search error: %o", error);
       displaySearchMessage(SEARCH_ERROR, error.message);
-      searchAudit("ACIM", searchBody.query, 0, error.message);
+      searchAudit("ACIMOE", searchBody.query, 0, error.message);
     });
 }
 

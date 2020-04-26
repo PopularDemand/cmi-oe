@@ -1,49 +1,77 @@
 ---
-title: How is Peace Possible in this World?
+title: How Many Teachers of God are<br/>&nbsp;&nbsp;Needed to Save the World?
 ---
 
-This is a question everyone must ask. Certainly peace seems to be
-impossible. Yet the Word of God promises other things that seem
-impossible, as well as this. His Word has promised peace. It has also
-promised that there is no death; that resurrection must occur, and that
-rebirth is man’s inheritance. The world you see cannot be the world God
-loves, and yet His Word assures us that He loves the world. God’s Word
-has promised us that peace is possible here, and what He promises can
-hardly be impossible. But it is true that the world must be looked at
-differently, if His promises are to be accepted. What the world is, is
-but a fact. You cannot choose what this should be. But you can choose how
-you would see it. Indeed, you must choose this.
+12\. How Many Teachers of God are Needed to Save the World?
+{: .lesson-header}
 
-Again we come to the question of judgement. This time, ask yourself
-whether your judgement or the Word of God is more likely to be true. For
-they say different things about the world, and things so opposite that
-it is pointless to reconcile them. God offers the world salvation; your
-judgement would condemn it. God says there is no death; your judgement
-sees but death as the inevitable end of life. God’s Word assures you
-that He loves the world; your judgement says it is unlovable. Who is
-right? For one of you is wrong. It must be so.
+The answer to this question is “one.” One wholly perfect teacher whose
+learning is complete suffices. This One, sanctified and redeemed,
+becomes the Self Who is the Son of God. He who was always wholly spirit
+now no longer sees Himself as a body or even as in a body. Therefore He
+is limitless. And being limitless, His Thoughts are joined with God's
+forever and ever. His perception of Himself is based upon God's
+Judgment, not His own. Thus does He share God's Will and bring His
+Thoughts to still deluded minds. He is forever One, because He is as God
+created Him. He has accepted Christ, and He is saved.
 
-The text explains that the Holy Spirit is the Answer to all problems you
-have made. These problems are not true, but that is meaningless to those
-who believe in them. And everyone believes in what he made, for it was
-made by his believing it. Into this strange and paradoxical situation, –
-one without meaning and devoid of sense, yet out of which no way seems
-possible, – God has sent His Judgement to answer yours. Gently His
-Judgement substitutes for yours. And through this substitution is the
-ununderstandable made understandable. How is peace possible in this
-world? In your judgement it is not possible and can never be possible.
-But in the Judgement of God what is reflected here is only peace.
+<sup>2</sup> Thus does the son of man become the Son of God. It is not
+really a change; it is a change of mind. Nothing external alters, but
+everything internal now reflects only the Love of God. God can no longer
+be feared, for the mind sees no cause for punishment. God's teachers
+appear to be many, for that is the world's need. Yet being joined in one
+purpose, and one they share with God, how could they be separate from
+each other? What does it matter if they then appear in many forms? Their
+minds are one; their joining is complete. And God works through them now
+as One, for that is what they are.
 
-Peace is impossible to those who look on war. Peace is inevitable to
-those who offer peace. How easily, then, is your judgement of the world
-escaped! It is not the world that makes peace
-seem impossible. It is the world you see that is impossible. Yet has
-God’s Judgement on this distorted world redeemed it, and made it fit to
-welcome peace. And peace descends on it in joyous answer. Peace now
-belongs here because a Thought of God has entered. What else but a
-Thought of God turns hell to Heaven merely by being what It is? The
-earth bows down before Its gracious Presence, and It leans down in
-answer to raise it up again. Now is the question different. It is no
-longer,“Can peace be possible in this world?” But instead,“Is it not
-impossible that peace be absent here?”
+<sup>3</sup> Why is the illusion of many necessary? Only because reality
+is not understandable to the deluded. Only a very few can hear God's
+Voice at all, and even they cannot communicate His messages directly
+through the Spirit Which gave them. They need a medium through which
+communication becomes possible to those who do not realize that they are
+spirit. A body they can see. A voice they understand and listen to
+without the fear that truth would encounter in them. Do not forget that
+truth can come only where it is welcomed without fear. So do God's
+teachers need a body, for their unity could not be recognized directly.
+
+<sup>4</sup> Yet what makes them God's teachers is their recognition of
+the proper purpose of the body. As they advance in their profession,
+they become more and more certain that the body's function is but to let
+God's Voice speak through it to human ears. And these ears will carry to
+the mind of the hearer messages which are not of this world, and the
+mind will understand because of their Source. From this understanding
+will come the recognition in this new teacher of God of what the body's
+purpose really is; the only use there really is for it. This lesson is
+enough to let the thought of unity come in, and what is one is
+recognized as one. The teachers of God appear to share the illusion of
+separation, but because of what they use the body for, they do not
+believe in the illusion despite appearances.
+
+<sup>5</sup> The central lesson is always this—that what you use the
+body for, it will become to you. Use it for sin or for attack, which is
+the same as sin, and you will see it as sinful. Because it is sinful, it
+is weak, and being weak, it suffers and it dies. Use it to bring the
+Word of God to those who have it not, and the body becomes holy. Because
+it is holy it cannot be sick, nor can it die. When its usefulness is
+done, it is laid by, and that is all. The mind makes this decision, as
+it makes all decisions which are responsible for the body's condition.
+Yet the teacher of God does not make this decision alone. To do that
+would be to give the body another purpose from the one that keeps it
+holy. God's Voice will tell him when he has fulfilled his role, just as
+It tells him what his function is. He does not suffer either in going or
+remaining. Sickness is now impossible to him.
+
+<sup>6</sup> Oneness and sickness cannot co-exist. God's teachers choose
+to look on dreams a while. It is a conscious choice. For they have
+learned that all choices are made consciously, with full awareness of
+their consequences. The dream says otherwise, but who would put his
+faith in dreams, once they are recognized for what they are? Awareness
+of dreaming is the real function of God's teachers. They watch the dream
+figures come and go, shift and change, suffer and die. Yet they are not
+deceived by what they see. They recognize that to behold a dream figure
+as sick and separate is no more real than to regard it as healthy and
+beautiful. Unity alone is not a thing of dreams. And it is this God's
+teachers acknowledge as behind the dream, beyond all seeing and yet
+surely theirs.
 

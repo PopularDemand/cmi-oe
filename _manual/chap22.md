@@ -1,60 +1,91 @@
 ---
-title: What is the Role of Words in Healing?
+title: How are Healing and Atonement Related?
 ---
 
-Strictly speaking, words play no part at all in healing. The motivating
-factor is prayer, or asking. What you ask for you receive. But this
-refers to the prayer of the heart, not to the words you use in praying.
-Sometimes the words and the prayer are contradictory; sometimes they
-agree. It does not matter. God does not understand words, for they were
-made by separated minds to keep them in the illusion of separation.
-Words can be helpful, particularly for the beginner, in helping
-concentration and facilitating the exclusion or at least the control, of
-extraneous thoughts. Let us not forget, however, that words are but
-symbols of symbols. They are thus twice removed from reality.
+22\. How are Healing and Atonement Related?
+{: .lesson-header}
 
-As symbols, words have quite specific references. Even when they seem
-most abstract, the picture that comes to mind is apt to be very
-concrete. Unless a specific referent does occur to the mind in
-conjunction with the word, the word has little or no practical meaning
-and thus cannot help the healing process. The prayer of the heart does
-not really ask for concrete things. It always requests some kind of
-experience, the specific things asked for being the bringers of the
-desired experience in the judgement of the asker. The words, then, are
-symbols for the things asked for, but the things themselves but stand
-for the experiences which are hoped for.
+Healing and Atonement are not related; they are identical. There is no
+order of difficulty in miracles, because there are no degrees of
+Atonement. It is the one complete concept possible in this world,
+because it is the source of a wholly unified perception. Partial
+Atonement is a meaningless idea, just as special areas of hell in Heaven
+is inconceivable. Accept Atonement, and you are healed. Atonement is the
+Word of God. Accept His Word, and what remains to make sickness
+possible? Accept His Word, and every miracle has been accomplished. To
+forgive is to heal. The teacher of God has taken accepting the Atonement
+for himself as his only function. What is there, then, he cannot heal?
+What miracle can be withheld from him?
 
-The prayer for things of this world will bring experiences of this
-world. If the prayer of the heart asks for this, this will be given
-because this will be received. It is impossible that the prayer of the
-heart remain unanswered in the perception of the one who asks. If he
-asks for the impossible, if he wants what does not exist or seeks for
-illusions in his heart, all this becomes his own. The power of his
-decision offers it to him, as he requests. Herein lie hell and Heaven.
-The sleeping Son of God has but this power left to him. It is enough.
-His words do not matter. Only the Word of God has any meaning, because
-it symbolizes that which has no human symbols at all. The Holy Spirit
-alone understands what this Word stands for. And this, too, is enough.
+<sup>2</sup> The progress of the teacher of God may be slow or rapid,
+depending on whether he recognizes the Atonement's inclusiveness or for
+a time excludes some problem areas from it. In some cases, there is a
+sudden and complete awareness of the perfect applicability of the lesson
+of the Atonement to all situations. This, however, is comparatively
+rare. The teacher of God may have accepted the function God has given
+him long before he has learned all that his acceptance holds out to him.
+It is only the end that is certain. Anywhere along the way, the
+necessary realization of inclusiveness may reach him. If the way seems
+long, let him be content. He has decided on the direction he will take.
+What more was asked of him? And having done what was required, would God
+withhold the rest?
 
-Is the teacher of God then to avoid the use of words in his
-teaching? No, indeed. There are many who must be reached through words,
-being as yet unable to hear in silence. The teacher of God must,
-however, learn to use words in a new way. Gradually, he learns how to
-let his words be chosen for him by ceasing to decide for himself what he
-will say. This process is merely a special case of the Workbook lesson
-“I will step back and let Him lead the way.” The teacher of God accepts
-the words which are offered him and gives as he receives. He does not
-control the direction of his speaking. He listens and hears and speaks.
+<sup>3</sup> That forgiveness is healing needs to be understood if the
+teacher of God is to make progress. The idea that a body can be sick is
+a central concept in the ego's thought system. This thought gives the
+body autonomy, separates it from the mind, and keeps the idea of attack
+inviolate. If the body could be sick, Atonement would be impossible. A
+body that can order a mind to do as it sees fit would merely take the
+place of God and prove salvation is impossible. What then is left to
+heal? The body has become lord of the mind. How could the mind be
+returned to the Holy Spirit unless the body is killed? And who would
+want salvation at such a price?
 
-A major hindrance in this aspect of his learning is the teacher of God’s
-fear about the validity of what he hears. And what he hears may indeed
-be quite startling. It may also seem to be quite irrelevant to the
-presented problem as he perceives it, and may, in fact, confront him
-with a situation that appears to be very embarrassing. All these are
-judgements which have no value. They are his own, coming from a shabby
-self-perception that he would leave behind. Judge not the words that
-come to you, but offer them in confidence. They are far wiser than your
-own. God’s teachers have God’s Word behind their symbols. And He Himself
-gives to the words they use the power of His Spirit, raising them from
-meaningless symbols to the call of Heaven itself.
+<sup>4</sup> Certainly sickness does not appear to be a decision. Nor
+would anyone actually believe he wants to be sick. Perhaps he can accept
+the idea in theory, but it is rarely, if ever, consistently applied to
+all specific forms of sickness, both in the individual's perception of
+himself and of all others as well. Nor is it at this level that the
+teacher of God calls forth the miracle of healing. He overlooks the mind
+and body, seeing only the face of Christ shining in front of him,
+correcting all mistakes and healing all perception. Healing is the
+result of the recognition by God's teacher of Who it is that is in need
+of healing. This recognition has no special reference. It is true of all
+things that God created. In it are all illusions healed.
+
+<sup>5</sup> When a teacher of God fails to heal, it is because he has
+forgotten Who he is. Another's sickness thus becomes his own. In
+allowing this to happen, he has identified with another's ego and has
+thus confused him with a body. In so doing, he has refused to accept the
+Atonement for himself and can hardly offer it to his brother in Christ's
+Name. He will, in fact, be unable to recognize his brother at all, for
+his Father did not create bodies, and so he is seeing in his brother
+only the unreal. Mistakes do not correct mistakes, and distorted
+perception does not heal. Step back now, teacher of God. You have been
+wrong. Lead not the way, for you have lost it. Turn quickly to your
+Teacher, and let yourself be healed.
+
+<sup>6</sup> The offer of Atonement is universal. It is equally
+applicable to all individuals in all circumstances. And in it is the
+power to heal all individuals of all forms of sickness. Not to believe
+this is to be unfair to God and thus unfaithful to Him. A sick person
+perceives himself as separate from God. Would you see him as separate
+from you? It is your task to heal the sense of separation that has made
+him sick. It is your function to recognize for him that what he believes
+about himself is not the truth. It is your forgiveness that must show
+him this. Healing is very simple. Atonement is received and offered.
+Having been received, it must be accepted. It is in the receiving, then,
+that healing lies. All else must follow from this single purpose.
+
+<sup>7</sup> Who can limit the power of God Himself? Who then can say
+who can be healed of what and what must remain beyond God's power to
+forgive? This is insanity indeed. It is not up to God's teachers to set
+limits upon Him, because it is not up to them to judge His Son. And to
+judge His Son is to limit his Father. Both are equally meaningless. Yet
+this will not be understood until God's teacher recognizes that they are
+the same mistake. Herein does he receive Atonement, for he withdraws his
+judgment from the Son of God, accepting him as God created him. No
+longer does he stand apart from God, determining where healing should be
+given and where it should be withheld. Now can he say with God, “This is
+my beloved Son, created perfect and forever so.”
 

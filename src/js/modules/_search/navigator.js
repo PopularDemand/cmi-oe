@@ -9,7 +9,7 @@ const page = require("../_config/key");
 
 //const queryResultName = "query-result-raj";
 const queryResultName = "search.acim.result";
-const url_prefix = "/t/acim";
+const url_prefix = "/t/acimoe";
 
 const SCROLL_INTERVAL = 250;
 

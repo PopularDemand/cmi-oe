@@ -6,17 +6,6 @@ const uiOpenTocModal = ".toc-modal-open";
 const uiModalOpacity = 0.5;
 
 /*
-  format links to Raj ACIM Sessions
-*/
-function renderRaj(links) {
-  return `
-    <div class="list raj-list hide">
-      ${links.map(l => `<a class="item" href="${l.url}">${l.title}</a>`).join("")}
-    </div>
-  `;
-}
-
-/*
   generate html for acim text sections
   data-secid used to simplify calculating next and previous sections
 */
@@ -27,20 +16,6 @@ function renderSections(base, sections, cidx) {
         <a data-secid="${qidx}" class="item"
           href="${base}${q.url}">${q.ref?q.ref+" ":""}${q.title}
         </a>
-      `).join("")}
-    </div>
-  `;
-}
-
-/*
-  generate html for acim text sections for Raj Cross Reference
-*/
-function renderRajSections(base, sections, cidx) {
-  return `
-    <div id="chapter${cidx + 1}" data-sections="${sections.length - 1}" class="list">
-      ${sections.map((q, qidx) => `
-        <div class="item">${q.ref?q.ref+" ":""}${q.title}</div>
-        ${q.nwffacim ? renderRaj(q.nwffacim) : ""}
       `).join("")}
     </div>
   `;
@@ -71,20 +46,6 @@ function makeTextContents(contents) {
         <div class="item">
           <div class="header">${unit.id ? `${unit.id}: `:""}${unit.title}</div>
           ${unit.sections ? renderSections(unit.base, unit.sections, cidx) : "" }
-        </div>
-      `).join("")}
-    </div>
-  `);
-}
-
-//generate html for TOC for Raj Cross Reference
-function makeRajContents(contents) {
-  return (`
-    <div class="ui relaxed list">
-      ${contents.map((unit, cidx) => `
-        <div class="item">
-          <div class="header">Chapter ${unit.id}: ${unit.title}</div>
-          ${unit.sections ? renderRajSections(unit.base, unit.sections, cidx) : "" }
         </div>
       `).join("")}
     </div>
@@ -356,10 +317,10 @@ function highlightCurrentTranscript(bid, setNextPrev = true) {
         workbookNextPrev($el);
         break;
       case "manual":
-        manualNextPrev($el, 31);
+        manualNextPrev($el, 30);
         break;
       case "acq":
-        manualNextPrev($el, 4);
+        manualNextPrev($el, 2);
         break;
     }
   }

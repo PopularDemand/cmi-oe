@@ -36,7 +36,7 @@ const books = ["text", "workbook", "manual", "acq"];
 const bookIds = ["xxx", ...books];
 
 //list the chapters or parts that make up each book, set the first item to 'xxx'
-const acq = ["xxx", "welcome", "acim", "web", "raj"];
+const acq = ["xxx", "welcome", "acim"];
 
 //removed the "xxx" first element of the array
 const text = [ "xxx", "forward", "intro", "chap0101", "chap0102", "chap0201", "chap0202", "chap0203", "chap0204",
@@ -105,12 +105,11 @@ const workbook = ["xxx", "introp1", "l001", "l002", "l003", "l004", "l005", "l00
   "l325", "l326", "l327", "l328", "l329", "l330", "ego", "l331", "l332", "l333", "l334", "l335",
   "l336", "l337", "l338", "l339", "l340", "miracle", "l341", "l342", "l343", "l344", "l345", "l346",
   "l347", "l348", "l349", "l350", "whatami", "l351", "l352", "l353", "l354", "l355", "l356", "l357",
-  "l358", "l359", "l360", "final", "l361", "epilog"];
+  "l358", "l359", "l360", "final", "l361", "l362", "l363", "l364", "l365", "epilog"];
 
-const manual = ["xxx", "chap01", "chap02", "chap03", "chap04", "chap05", "chap06", "chap07", "chap08", "chap09",
+const manual = ["xxx", "intro", "chap01", "chap02", "chap03", "chap04", "chap05", "chap06", "chap07", "chap08", "chap09",
   "chap10", "chap11", "chap12", "chap13", "chap14", "chap15", "chap16", "chap17", "chap18", "chap19",
-  "chap20", "chap21", "chap22", "chap23", "chap24", "chap25", "chap26", "chap27", "chap28", "chap29",
-  "chap30", "chap31"];
+  "chap20", "chap21", "chap22", "chap23", "chap24", "chap25", "chap26", "chap27", "chap28", "chap29"];
 
 const contents = {
   acq: acq,

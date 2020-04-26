@@ -2,82 +2,55 @@
 title: Welcome
 ---
 
-<h2 class="disable-paragraph-marker ui header">
-Welcome to the ACIM Sparkly Edition
+<h2 class="ui header">
+Welcome to ACIM Original Edition
 </h2>
 
-Learn more about this edition in the [preface](/t/acim/preface/preface/).
+ *A Course in Miracles-Original Edition* (often called just "the
+ *Course*") is a self-study course for retraining the mind that is
+ spiritual rather than religious in its perspective. Although it uses
+ Christian terminology, it is ecumenical in its approach, and its
+ underlying ontology is reminiscent of ancient refrains, echoing the
+ world's most hallowed traditions.
 
-The Sparkly Edition is included in the library because it is used by Raj
-in his ACIM Study Group. You can learn more about Raj by visiting [The
-Raj Material](/t/raj/) section of the Library.
+These three volumes, Text, Workbook, and Manual for Teachers were
+scribed by Helen Schucman, a self-described militant atheist and
+psychologist, who had basically given up on God.
 
-<h3 class="ui header">Listed here are ACIM books included in the library.</h3>
+The story of the *Course* began when, in the midst of an environment
+of intense competition and negative attitudes, Columbia University
+clinical psychologist Dr. William Thetford decided he had had enough
+and declared to his colleague, Dr. Helen Schucman, "There must be
+another way, and I'm determined to find it." Dr. Schucman vowed to
+help him and what ensued was a dramatic progression of waking dreams
+for Helen, which culminated in October 1965 with her experience of a
+Voice which spoke clearly in her mind, saying, "This is a course in
+miracles. Please take notes."
 
-<div class="ui items">
-  <div class="item">
-    <a href="#" data-book="acq" class="toc-modal-open combined ui tiny image" data-tooltip="Click to view the Getting Acquainted table of contents.">
-      <img src="/t/acim/public/img/acim/acq-toc.jpg">
-    </a>
-    <div class="content">
-      <a class="header">Getting Acquainted</a>
-      <div class="description">
-        <p>
-          Visit this section to learn more about ACIM and features found
-          in the Library.
-        </p>
-      </div>
-    </div>
-  </div>
-  <div class="item">
-    <a data-book="preface" href="/acim/preface/preface/" class="ui tiny image" data-tooltip="Open the Preface to the ACIM Sparkly edition." data-position="top center">
-      <img src="/t/acim/public/img/acim/preface.jpg">
-    </a>
-    <div class="content">
-      <div class="header">A Course in Miracles: Preface</div>
-      <div class="description">
-        Preface to the Sparkly Edition including the ACIM "Use of Terms".
-      </div>
-    </div>
-  </div>
-  <div class="item">
-    <a href="#" data-book="text" class="toc-modal-open combined ui tiny image" data-tooltip="Click to view the ACIM Text table of contents." data-position="top center">
-      <img src="/t/acim/public/img/acim/text.jpg">
-    </a>
-    <div class="content">
-      <div class="header">A Course in Miracles: Text</div>
-      <div class="description">
-        The Text of A Course in Miracles. Click the cover image to see
-        the table of contents.
-      </div>
-    </div>
-  </div>
-  <div class="item">
-    <a href="#" data-book="workbook" class="toc-modal-open combined ui tiny image" data-tooltip="Click to view the ACIM Workbook table of contents." data-position="top center">
-      <img src="/t/acim/public/img/acim/workbook.jpg">
-    </a>
-    <div class="content">
-      <div class="header">A Course in Miracles: Workbook for Students</div>
-      <div class="description">
-        ACIM Workbook for Students containing lessons for a year
-        long course of practical application.
-      </div>
-    </div>
-  </div>
-  <div class="item">
-    <a href="#" data-book="manual" class="toc-modal-open combined ui tiny image" data-tooltip="Click to view the Manual for Teachers table of contents." data-position="top center">
-      <img src="/t/acim/public/img/acim/manual.jpg">
-    </a>
-    <div class="content">
-      <div class="header">A Course in Miracles: Manual for Teachers</div>
-      <div class="description">
-        ACIM Manual for Teachers.
-      </div>
-    </div>
-  </div>
-</div>
+With Thetford's support and assistance in transcribing her shorthand
+notes, Helen Schucman took down some fifteen hundred typewritten
+pages of *A Course in Miracles* over a period of seven years.  
 
+Schucman did not claim to be the author of the material herself. As
+she often explained, she heard a kind of inner dictation and felt
+compelled to write it down, even though at times she disagreed with
+the content and resisted the process. The Voice that spoke through
+Helen clearly identifies himself as Jesus. Nonetheless, one need not
+be Christian nor accept Christianity's traditional doctrines to
+benefit from the teachings of the *Course*. Indeed, traditional
+Christians will at first find many of the pronouncements contained
+in this work to be startling and perhaps unbelievable. Persistence
+and open-mindedness will nevertheless be rewarded.
 
-
-
+As the development of the material progressed, Schucman and Thetford
+faced the formidable task of organizing the original typescript
+(often called the "Urtext") into what would become *A Course in
+Miracles*. They divided the Text into Chapters and Sections and gave
+Titles to each, and they removed a great deal of material from the
+early chapters---material they believed was meant for them
+personally and not for the *Course*. The dictation and retyping of
+*A Course in Miracles* was completed in September 1972 and resulted
+in three volumes - Text, Workbook for Students, and Manual for
+Teachers. The edition that resulted from those efforts is the book
+you are reading and/or listening to on this site.
 

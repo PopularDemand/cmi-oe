@@ -1,50 +1,80 @@
 ---
-title: Can God be Reached Directly?
+title: What is Death?
 ---
 
-God indeed can be reached directly, for there is no distance between Him
-and His Son. His awareness is in everyone’s memory and His Word is
-written on everyone’s heart. Yet this awareness and this memory can
-arise across the threshold of the unconscious only where all barriers to
-truth have been removed. In how many is this the case? Here then is the
-role of God’s teachers. They too have not attained the necessary
-understanding as yet, but they have joined with others. This is what sets
-them apart from the world. And it is this that enables others to leave
-the world with them. Alone they are nothing. But in their joining is the
-Power of God.
+27\. What is Death?
+{: .lesson-header}
 
-There are those who have reached God directly, retaining no trace of
-worldly limits and remembering their own Identity perfectly. These might
-be called the Teachers of teachers because, although they are no longer
-visible, their image can yet be called upon. And they will appear when
-and where it is helpful for them to do so. To those to whom such
-appearances would be frightening, they give their ideas. No-one can call
-on them in vain. Nor is there anyone of whom they are unaware. All needs
-are known to them and all mistakes are recognized and overlooked by
-them. The time will come when this is understood. And meanwhile they
-give all their gifts to the teachers of God who look to them for help,
-asking all things in Their Name and in no other.
+Death is the central dream from which all illusions stem. Is it not
+madness to think of life as being born, aging, losing vitality, and
+dying in the end? We have asked this question before, but now we need to
+consider it still more carefully. It is the one fixed, unchangeable
+belief of the world that all things in it are born only to die. This is
+regarded as “the way of nature,” not to be raised to question but to be
+accepted as the “natural” law of life. The cyclical, the changing and
+unsure, the undependable and the unsteady, waxing and waning in a
+certain way upon a certain path—all this is taken as the Will of God.
+And no one asks if a benign Creator could will this.
 
-Sometimes a teacher of God may have a brief experience of direct union
-with God. In this world, it is almost impossible that this endure. It
-can, perhaps, be won after much devotion and dedication, and then be
-maintained for most of the time on earth. But this is so rare that it
-cannot be considered a realistic goal. If it happens, so be it. If it
-does not happen, so be it as well. All worldly states must be illusory.
-If God were reached directly in sustained awareness, the body would not
-be long maintained. Those who have laid the body down merely to extend
-their helpfulness to those remaining behind are few indeed. And they
-need helpers who are still in bondage and still asleep, so that by their
-awakening can God’s Voice be heard.
+<sup>2</sup> In this perception of the universe as God created it, it
+would not be possible to think of Him as loving. For who has decreed
+that all things pass away, ending in dust and disappointment and despair
+could but be feared. He holds your little life in his hand but by a
+thread, ready to break it off without regret or care, perhaps today. Or
+if he waits, yet is the ending certain. Who loves such a god knows not
+of love, because he has denied that life is real. Death has become
+life's symbol. His world is now a battleground where contradiction
+reigns and opposites make endless war. Where there is death is peace
+impossible.
 
-Do not despair, then, because of limitations. It is your function to
-escape from them, but not to be without them. If you would be heard by
-those who suffer, you must speak their language. If you would be
-Saviors, you must understand what needs to be escaped. Salvation is not
-theoretical. Behold the problem, ask for the answer, and then accept it
-when it comes. Nor will its coming be long delayed. All the help you can
-accept will be provided, and not one need you have will not be met. Let
-us not, then, be too concerned with goals for which you are not ready.
-God takes you where you are and welcomes you. What more could you
-desire, when this is all you need?
+<sup>3</sup> Death is the symbol of the fear of God. His love is blotted
+out in the idea, which holds it from awareness like a shield held to
+obscure the sun. The grimness of the symbol is enough to show it cannot
+co-exist with God. It holds an image of the Son of God in which he is
+“laid to rest” in devastation's arms, where worms wait to greet him and
+to last a little while by his destruction. Yet the worms as well are
+doomed to be destroyed as certainly. And so do all things live because
+of death. Devouring is nature's “law of life.” God is insane, and fear
+alone is real.
+
+<sup>4</sup> The curious belief that there is part of dying things that
+may go on apart from what will die does not proclaim a loving God nor
+re-establish any grounds for trust. If death is real for anything, there
+is no life. Death denies life, but if there is reality in life, death is
+denied. No compromise in this is possible. There is either a god of fear
+or One of Love. The world attempts a thousand compromises and will
+attempt a thousand more. Not one can be acceptable to God's teachers
+because not one could be acceptable to God. He did not make death,
+because He did not make fear. Both are equally meaningless to Him.
+
+<sup>5</sup> The “reality” of death is firmly rooted in the belief that
+God's Son is a body. And if God created bodies, death would indeed be
+real. But God would not be loving. There is no point at which the
+contrast between the perception of the real world and that of the world
+of illusions becomes more sharply evident. Death is indeed the death of
+God if He is Love. And now His own creation must stand in fear of Him.
+He is not Father but destroyer. He is not Creator but avenger. Terrible
+His thoughts and fearful His image. To look on His creations is to die.
+
+<sup>6</sup> “And the last to be overcome will be death.” Of course!
+Without the idea of death, there is no world. All dreams will end with
+this one. This is salvation's final goal, the end of all illusions. And
+in death are all illusions born. What can be born of death and still
+have life? But what is born of God and still can die? The
+inconsistencies, the compromises, and the rituals the world fosters in
+its vain attempts to cling to death and yet to think love real are
+mindless magic, ineffectual and meaningless. God is, and in Him all
+created things must be eternal. Do you not see that otherwise He has an
+opposite, and fear would be as real as love?
+
+<sup>7</sup> Teacher of God, your one assignment could be stated thus:
+accept no compromise in which death plays a part. Do not believe in
+cruelty nor let attack conceal the truth from you. What seems to die has
+but been misperceived and carried to illusion. Now it becomes your task
+to let the illusion be brought to the truth. Be steadfast but in this;
+be not deceived by the “reality” of any changing form. Truth neither
+moves nor wavers nor sinks down to death and dissolution. And what is
+the end of death? Nothing but this: the realization that the Son of God
+is guiltless now and forever. Nothing but this. But do not let yourself
+forget it is not less than this.
 

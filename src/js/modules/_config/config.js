@@ -1,6 +1,7 @@
 import store from "store";
 import axios from "axios";
 import {status} from "./status";
+import { getIndexFromLesson } from "./wbkey";
 
 //import {decodeKey, parseKey, genKey} from "./key";
 const transcript = require("./key");
@@ -8,7 +9,7 @@ const transcript = require("./key");
 //change these values to reflect transcript info
 const AWS_BUCKET = "assets.christmind.info";
 const SOURCE_ID = "oe";
-const SOURCE = "A Course In Miracles";
+const SOURCE = "ACIM Original Edition";
 
 //mp3 and audio timing base directories
 const audioBase = `https://s3.amazonaws.com/${AWS_BUCKET}/${SOURCE_ID}/audio`;
@@ -198,12 +199,27 @@ export function getAudioInfo(url) {
 
   switch(idx[2]) {
     //no audio
-    case "workbook":
     case "manual":
+      audioInfo = config.contents.find((item) => {
+        return item.url === `/${idx[3]}/`;
+      });
+
+      if (!audioInfo) {
+        audioInfo = {};
+      }
+
+      break;
     case "acq":
+      break;
+    case "workbook":
+      // eslint-disable-next-line no-case-declarations
+      let index = getIndexFromLesson(idx[3]);
+
+      audioInfo = config.contents[index.part].section[index.section].page[index.page];
       break;
     case "text":
       //get indexes into config object from page name: ie: chap0406
+      // eslint-disable-next-line no-case-declarations
       let [,,, chapter, unit] = idx;
 
       if (chapter === "front") {
@@ -330,13 +346,9 @@ export function getPageInfo(pageKey, data = false) {
           let flat_store_id = `search.acimoe.${decodedKey.bookId}.flat`;
 
           switch(decodedKey.bookId) {
-            case "preface":
-              info.title = "Use of Terms";
-              info.url = "/acim/preface/preface/";
-              break;
             case "manual":
               info.title = data.contents[decodedKey.uid - 1].title;
-              info.url = `/acim/${decodedKey.bookId}${data.contents[decodedKey.uid - 1].url}`;
+              info.url = `/acimoe/${decodedKey.bookId}${data.contents[decodedKey.uid - 1].url}`;
               break;
             case "workbook":
               flat = store.get(flat_store_id);
@@ -347,7 +359,7 @@ export function getPageInfo(pageKey, data = false) {
               unit = flat[decodedKey.uid - 1];
 
               info.title = `${unit.lesson?unit.lesson + ". ":""}${unit.title}`;
-              info.url = `/acim/${decodedKey.bookId}/${unit.url}`;
+              info.url = `/acimoe/${decodedKey.bookId}/${unit.url}`;
               break;
             case "text":
               flat = store.get(flat_store_id);
@@ -361,10 +373,12 @@ export function getPageInfo(pageKey, data = false) {
               info.title = `${unit.title}`;
               info.url = `/acimoe/${decodedKey.bookId}/${chapter}/${unit.url}`;
               break;
-            default:
-              info.title = data.contents[decodedKey.uid].title;
-              info.url = `/acimoe/${decodedKey.bookId}${data.contents[decodedKey.uid].url}`;
+            case "acq":
+              info.title = data.contents[decodedKey.uid-1].title;
+              info.url = `/acimoe/${decodedKey.bookId}${data.contents[decodedKey.uid-1].url}`;
               break;
+            default:
+              throw new Error(`getPageInfo(): unknown bookId ${decodedKey.bookId}`);
           }
 
           resolve(info);

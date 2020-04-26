@@ -1,309 +1,126 @@
 ---
-title: What are the Characteristics of God's Teachers?
+title: How is Healing Accomplished?
 ---
 
-The surface traits of God’s teachers are not at all alike. They do not
-look alike to the body’s eyes, they come from vastly different
-backgrounds, their experiences of the world vary greatly, and their
-superficial “personalities” are quite distinct. Nor at the beginning
-stages of their functioning as teachers of God have they as yet acquired
-the deeper characteristics that will establish them as what they are.
-God gives special gifts to His teachers because they have a special role
-in His plan for Atonement. Their specialness is, of course, only
-temporary; set in time as a means of leading out of time. These special
-gifts, born in the holy relationship toward which the teaching-learning
-situation is geared, become characteristic of all teachers of God who
-have advanced in their own learning. In this respect they are all alike.
+5\. How is Healing Accomplished?
+{: .lesson-header}
 
-All differences among the Sons of God are temporary. Nevertheless, in
-time it can be said that the advanced teachers of God have the following
-characteristics:
+Healing involves an understanding of what the illusion of sickness is
+for. Healing is impossible without this.
 
-## 1. **TRUST**
+### The Perceived Purpose of Sickness
 
-This is the foundation on which their ability to fulfill their function
-rests. Perception is a result of learning. In fact, perception is
-learning, because cause and effect are never separated. The teachers of
-God have trust in the world because they have learned it is not governed
-by the laws the world made up. It is governed by a Power Which is in
-them but not of them. It is this Power that keeps all things safe. It is
-through this Power that the teachers of God look on a forgiven world.
+<sup>2</sup> Healing is accomplished the instant the sufferer no longer
+sees any value in pain. Who would choose suffering unless he thought it
+brought him something, and something of value to him? He must think it
+is a small price to pay for something of greater worth. For sickness is
+an election, a decision. It is the choice of weakness in the mistaken
+conviction that it is strength. When this occurs, real strength is seen
+as threat and health as danger. Sickness is a method, conceived in
+madness, for placing God's Son on his Father's throne. God is seen as
+outside, fierce and powerful, eager to keep all power for Himself. Only
+by His death can He be conquered by His Son.
 
-When this Power has once been experienced, it is impossible to trust
-one’s own petty strength again. Who would attempt to fly with the tiny
-wings of a sparrow when the mighty power of an eagle has been given him?
-And who would place his faith in the shabby offerings of the ego when
-the gifts of God are laid before him? What is it that induces them to
-make the shift?
+<sup>3</sup> And what, in this insane conviction, does healing stand
+for? It symbolizes the defeat of God's Son and the triumph of his Father
+over him. It represents the ultimate defiance in a direct form which the
+Son of God is forced to recognize. It stands for all that he would hide
+from himself to protect his life. If he is healed, he is responsible for
+his thoughts. And if he is responsible for his thoughts, he will be
+killed to prove to him how weak and pitiful he is. But if he chooses
+death himself, his weakness is his strength. Now has he given himself
+what God would give to him and thus entirely usurped the throne of his
+Creator.
 
-First, they must go through what might be called “a period of undoing.”
-This need not be painful, but it usually is so experienced.
-It seems as if things are being taken away, and it is rarely understood
-initially that their lack of value is merely being recognized. How can
-lack of value be perceived unless the perceiver is in a position where
-he must see things in a different light? He is not yet at a point at
-which he can make the shift entirely internally. And so the plan will
-sometimes call for changes in what seem to be external
-circumstances. These changes are always helpful. When the teacher of God
-has learned that much, he goes on to the second stage.
+### The Shift in Perception
 
-Next, the teacher of God must go through a “period of sorting-out.” This
-is always somewhat difficult because, having learned that the changes in
-his life are always helpful, he must now decide all things on the basis
-of whether they increase the helpfulness or hamper it. He will find that
-many if not most of the things he valued before will merely hinder his
-ability to transfer what he has learned to new situations as they arise.
-Because he has valued what is really valueless, he will not generalize
-the lesson for fear of loss and sacrifice. It takes great learning to
-understand that all things, events, encounters and circumstances are
-helpful. It is only to the extent to which they are helpful that any
-degree of reality should be accorded them in this world of illusion. The
-word “value” can apply to nothing else.
+<sup>4</sup> Healing must occur in exact proportion in which the
+valuelessness of sickness is recognized. One need but say, “There is no
+gain to me at all in this,” and he is healed. But to say this one must
+first recognize certain facts. First, it is obvious that decisions are
+of the mind, not of the body. If sickness is but a faulty
+problem-solving approach, it is a decision. And if it is a decision, it
+is the mind and not the body that makes it. The resistance to
+recognizing this is enormous, because the existence of the world as we
+perceive it depends on the body being the decision-maker. Terms like
+“instincts,” “reflexes” and the like represent attempts to endow the
+body with non-mental motivators. Actually, such terms merely state or
+describe the problem. They do not answer it.
 
-The third stage to which the teachers of God must go can be called “a
-period of relinquishment.” If this is interpreted as giving up the
-desirable, it will engender enormous conflict. Few teachers of God
-escape this distress entirely. There is, however, no point in sorting out
-the valuable from the valueless unless the next obvious step is taken.
-The third step is rarely if ever begun until the second is complete.
-Therefore, the period of overlap is apt to be one in which the teacher
-of God feels called upon to sacrifice his own best interests on behalf
-of truth. He has not realized as yet how wholly impossible such a demand
-would be. He can learn this only as he actually does give up the
-valueless. Through this he learns that where he anticipated grief he
-finds a happy light-heartedness instead; where he thought something was
-asked of him he finds a gift bestowed on him.
+<sup>5</sup> The acceptance of sickness as a decision of the mind for a
+purpose for which it would use the body is the basis of healing. And
+this is so for healing in all forms. A patient decides that this is so,
+and he recovers. If he decides against recovery, he will not be healed.
+Who is the physician? Only the mind of the patient himself. The outcome
+is what he decides that it is. Special agents seem to be ministering to
+him, yet they but give form to his own choice. He chooses them to bring
+tangible form to his desires. And it is this they do, and nothing else.
+They are not actually needed at all. The patient could merely rise up
+without their aid and say, “I have no use for this.” There is no form of
+sickness that would not be cured at once.
 
-Now comes a “period of settling down.” This is a quiet time, in which
-the teacher of God rests a while in reasonable peace. Now he
-consolidates his learning. Now he begins to see the transfer value of
-what he has learned. Its potential is literally staggering, and the
-teacher of God is now at the point in his progress at which he sees in
-it his whole way out. “Give up what you do not want and keep what you
-do.” How simple is the obvious! And how easy to do! The teacher of God
-needs this period of respite. He has not yet come as far as he
-thinks. Yet when he is ready to go on, he goes with mighty companions
-beside him. Now he rests a while, and gathers them before going on. He
-will not go on from here alone.
+<sup>6</sup> What is the single requisite for this shift in perception?
+It is simply this: the recognition that sickness is of the mind and has
+nothing to do with the body. What does this recognition “cost”? It costs
+the whole world we see, for the world will never again appear to rule
+the mind. For with this recognition is responsibility placed where it
+belongs—not with the world but on him who looks on the world and sees it
+as it is not. He looks on what he chooses to see. No more and no less.
+The world does nothing to him. He only thought it did. Nor does he do
+anything to the world because he was mistaken about what it was. Herein
+is the release from guilt and sickness both, for they are one. Yet to
+accept this release, the insignificance of the body must be an
+acceptable idea.
 
-The next stage is indeed a “period of unsettling.” Now must the teacher
-of God understand that he did not really know what was valuable and what
-was valueless. All that he really learned so far was that he did not
-want the valueless and that he did want the valuable. Yet his own
-sorting-out was meaningless in teaching him the difference. The idea of
-sacrifice, so central to his thought system, had made it impossible for
-him to judge. He thought he had learned willingness, but now he sees
-that he does not know what the willingness is for. And now he must attain
-a state that may remain impossible for a long long time. He must learn
-to lay all judgement aside and ask only what he really wants in every
-circumstance. Were not each step in this direction so heavily reinforced,
-it would be hard indeed!
+<sup>7</sup> With this idea is pain forever gone. But with this idea
+goes also all confusion about creation. Does not this follow of
+necessity? Place cause and effect in their true sequence in one respect,
+and the learning will generalize and transform the world. The transfer
+value of one true idea has no end nor limit. The final outcome of this
+lesson is the remembrance of God. What do guilt and sickness, pain,
+disaster, and all suffering mean now? Having no purpose, they are gone.
+And with them also go all the effects they seemed to cause. Cause and
+effect but replicate creation. Seen in their proper perspective, without
+distortion and without fear, they re-establish Heaven.
 
-And finally, there is a “period of achievement.” It is here that
-learning is consolidated. Now what was seen as merely shadows before
-becomes solid gains, to be counted on in all “emergencies” as well as
-tranquil times. Indeed, the tranquillity is their result; the outcome of
-honest learning, consistency of thought and full transfer. This is the
-stage of real peace, for here is Heaven’s state fully reflected. From
-here the way to Heaven is open and easy. In fact, it is here. Who would
-“go” anywhere, if peace of mind is already complete? And who would seek
-to change tranquillity for something more desirable? What could be more
-desirable than this?
+### The Function of the Teacher of God
 
-## 2. **HONESTY**
+<sup>8</sup> If the patient must change his mind in order to be healed,
+what does the teacher of God do? Can he change the patient's mind for
+him? Certainly not. For those already willing to change their mind he
+has no function except to rejoice with them, for they have become
+teachers of God with him. He has, however, a more specific function for
+those who do not understand what healing is. These patients do not
+realize they have chosen sickness. On the contrary, they believe that
+sickness has chosen them. Nor are they open-minded on this point. The
+body tells them what to do, and they obey. They have no idea how insane
+this concept is. If they even suspected it, they would be healed. Yet
+they suspect nothing. To them the separation is quite real.
 
-All other traits of God’s teachers rest on trust. Once that has been
-achieved the others cannot fail to follow. Only the trusting can afford
-honesty, for only they can see its value. Honesty does not apply to only
-what you say. The term actually means consistency. There is nothing you
-say that contradicts what you think or do; no thought
-opposes any other thought; no act belies your word; and no word lacks
-agreement with another. Such are the truly honest. At no level are they
-in conflict with themselves. Therefore it is impossible for them to be
-in conflict with anyone or anything.
+<sup>9</sup> To them God's teachers come to represent another choice
+which they had forgotten. The simple presence of a teacher of God is a
+reminder. His thoughts ask for the right to question what the patient
+has accepted is true. As God's messengers, His teachers are the symbols
+of salvation. They ask the patient for forgiveness for God's Son in his
+own name. They stand for the alternative. With God's Word in their minds
+they come in benediction, not to heal the sick but to remind them of the
+remedy God has already given them. It is not their hands that heal. It
+is not their voice that speaks the Word of God. They merely give what
+has been given them. Very gently they call to their brothers to turn
+away from death. Behold, you Son of God, what life can offer you. Would
+you choose sickness in place of this?
 
-The peace of mind which the advanced teachers of God experience is
-largely due to their perfect honesty. It is only the wish to deceive
-that makes for war. No-one at one with himself can even conceive of
-conflict. Conflict is the inevitable result of self-deception, and
-self-deception is dishonesty. There is no challenge to a teacher of God.
-Challenge implies doubt, and the trust on which God’s teachers rest
-secure makes doubt impossible. Therefore they can only succeed. In this
-as in all things they are honest. They can only succeed because they
-never do their will alone. They choose for all mankind; for all the world
-and all things in it; for the unchanging and unchangeable beyond
-appearances; and for the Son of God and his Creator. How could they not
-succeed? They choose in perfect honesty, sure of their choice
-themselves.
-
-## 3. **TOLERANCE**
-
-God’s teachers do not judge. To judge is to be dishonest, for to judge is
-to assume a position you do not have. Judgement without self-deception
-is impossible. Judgement implies that you have been deceived in your
-brothers. How then could you not have been deceived in yourself?
-Judgement implies a lack of trust, and trust remains the bed-rock of the
-teacher of God’s whole thought system. Let this be lost and all his
-learning goes. Without judgement are all things equally acceptable, for
-who could judge otherwise? Without judgement are all men brothers, for
-who is there who stands apart? Judgement destroys honesty and shatters
-trust. No teacher of God can judge and hope to learn.
-
-## 4. **GENTLENESS**
-
-Harm is impossible for God’s teachers. They can neither harm nor be
-harmed. Harm is the outcome of judgement. It is the dishonest act that
-follows the dishonest thought. It is a verdict of guilt upon a brother
-and therefore on one’s self. It is the end of peace and the
-denial of learning. It demonstrates the absence of God’s curriculum and
-its replacement by insanity. No teacher of God but must learn, – and
-fairly early in his training, – that harmfulness completely obliterates
-his function from his awareness. It will make him confused, fearful,
-angry and suspicious. It will make the Holy Spirit’s lessons impossible
-to learn. Nor can God’s Teacher be heard at all except by those who
-realize that harm can actually achieve nothing. No gain can come of it.
-
-Therefore God’s teachers are wholly gentle. They need the strength of
-gentleness, for it is in this that the function of salvation becomes
-easy. To those who would do harm it is impossible. To those to whom harm
-has no meaning it is merely natural. What choice but this has meaning to
-the sane? Who chooses hell when he perceives a way to Heaven? And who
-would choose the weakness that must come from harm in place of the
-unfailing, all-encompassing and limitless strength of gentleness? The
-might of God’s teachers lies in their gentleness, for they have
-understood their evil thoughts came neither from God’s Son nor his
-Creator. Thus did they join their thoughts with Him Who is their Source.
-And so their will, which always was His Own, is free to be Itself.
-
-## 5. **JOY**
-
-Joy is the inevitable result of gentleness. Gentleness means that fear
-is now impossible, and what could come to interfere with joy? The open
-hands of gentleness are always filled. The gentle have no pain. They
-cannot suffer. Why would they not be joyous? They are sure they are
-beloved and must be safe. Joy goes with gentleness as surely as grief
-attends attack. God’s teachers trust in Him. And they are sure His
-Teacher goes before them, making sure no harm can come to them. They
-hold His gifts and follow in His way, because God’s Voice directs them
-in all things. Joy is their song of thanks. And Christ looks down on
-them in thanks as well. His need of them is just as great as theirs of
-Him. How joyous it is to share the purpose of salvation!
-
-## 6. **DEFENSELESSNESS**
-
-God’s teachers have learned how to be simple. They have no dreams
-that need defense against the truth. They do not try to make themselves.
-Their joy comes from their understanding Who created them. And does what
-God created need defense? No-one can become an advanced teacher of God
-until he fully understands that defenses are but the foolish guardians
-of mad illusions. The more grotesque the dream, the fiercer and more
-powerful its defenses seem to be. Yet when the teacher of God finally
-agrees to look past them, he finds nothing was there. Slowly at first he
-lets himself be undeceived. But he learns faster as his trust increases.
-It is not danger that comes when defenses are laid down. It is safety.
-It is peace. It is joy. And it is God.
-
-## 7. **GENEROSITY**
-
-The term generosity has special meaning to the teacher of God. It is not
-the usual meaning of the word; in fact, it is a meaning that must be
-learned and learned very carefully. Like all the other attributes of
-God’s teachers, this one rests ultimately on trust, for without trust
-no-one can be generous in the true sense. To the world, generosity means
-“giving away” in the sense of “giving up.” To the teachers of God, it
-means “giving away” in order to keep. This has been emphasized
-throughout the text and the workbook, but it is perhaps more alien to
-the thinking of the world than many other ideas in our curriculum. Its
-greater strangeness lies merely in the obviousness of its reversal of
-the world’s thinking. In the clearest way possible and at the simplest
-of levels, the word means the exact opposite to the teachers of God and
-to the world.
-
-The teacher of God is generous out of self-interest. This does not refer,
-however, to the self the world speaks of. The teacher of God does not
-want anything he cannot give away, because he realizes it would be
-valueless to him by definition. What would he want it for? He could only
-lose because of it. He could not gain. Therefore he does not seek what
-only he could keep, because that is a guarantee of loss. He does not
-want to suffer. Why should he ensure himself pain? But he does want to
-keep for himself all things that are of God and therefore for His Son.
-These are the things that belong to him. These he can give away in true
-generosity, protecting them forever for himself.
-
-## 8. **PATIENCE**
-
-Those who are certain of the outcome can afford to wait, and wait
-without anxiety. Patience is natural to the teacher of God. All he sees
-is certain outcome, at a time perhaps unknown as yet but not in doubt.
-The time will be as right as is the answer. And this is true for
-everything that happens now or in the future. The past as well held no
-mistakes; nothing that did not serve to benefit the world as well as him
-to whom it seemed to happen. Perhaps it was not understood at the time.
-Even so, the teacher of God is willing to reconsider all his past
-decisions if they are causing pain to anyone. Patience is natural to
-those who trust. Sure of the ultimate interpretation of all things in
-time, no outcome already seen or yet to come can cause them fear.
-
-## 9. **FAITHFULNESS**
-
-The extent of the teacher of God’s faithfulness is the measure of his
-advancement in the curriculum. Does he still select some aspects of his
-life to bring to his learning, while keeping others apart? If so, his
-advancement is limited and his trust not yet firmly established.
-Faithfulness is the teacher of God’s trust in the Word of God to set all
-things right; not some but all. Generally his faithfulness begins by
-resting on just some problems, remaining carefully limited for a time.
-To give up all problems to one Answer is to reverse the thinking of the
-world entirely. And that alone is faithfulness. Nothing but that really
-deserves the name. Yet each degree, however small, is worth achieving.
-Readiness, as the text notes, is not mastery.
-
-True faithfulness, however, does not deviate. Being consistent it is
-wholly honest. Being unswerving it is full of trust. Being based on
-fearlessness it is gentle. Being certain it is joyous, and being
-confident it is tolerant. Defenselessness attends it naturally, and joy
-is its condition. Faithfulness, then, combines in itself the other
-attributes of God’s teachers. It implies acceptance of the Word of God
-and His definition of His Son. It is to Them that faithfulness in the
-true sense is always directed. Toward Them it looks, seeking until it
-finds. And having found, it rests in quiet certainty on That alone to
-which all faithfulness is due.
-
-## 10. **OPENMINDEDNESS**
-
-The centrality of openmindedness, perhaps the last of the attributes the
-teacher of God acquires, is easily understood when its relation to
-forgiveness is recognized. Openmindedness comes with lack of judgement.
-As judgement shuts the mind against God’s Teacher, so openmindedness
-invites Him to come in. As condemnation judges the Son of God as evil,
-so openmindedness permits him to be judged by the Voice for God on His
-behalf. As the projection of guilt upon him would send him to hell, so
-openmindedness lets Christ’s image be projected on him. Only the
-openminded can be at peace, for they alone see reason for it.
-
-How do the openminded forgive? They have let go all things that would
-prevent forgiveness. They have in truth abandoned the world, and let it
-be restored to them in newness and in joy so glorious they could never
-have conceived of such a change. Nothing is now as it was formerly.
-Nothing but sparkles now which seemed so dull and lifeless before. And
-above all are all things welcoming, for threat is gone. No clouds remain
-to hide the Face of Christ. Now is the goal achieved. Forgiveness is the
-final goal of the curriculum. It paves the way for what goes far beyond
-all learning. The curriculum makes no effort to exceed its legitimate
-goal. Forgiveness is its single aim, at which all learning ultimately
-converges. It is indeed enough.
-
----
-
-You may have noticed that the list of attributes of God’s teachers does
-not include those things which are the Son of God’s inheritance. Terms
-like love, sinlessness, perfection, knowledge and eternal truth do not
-appear in this context. They would be most inappropriate here. What God
-has given is so far beyond our curriculum that learning but disappears
-in its presence. Yet while its presence is obscured, the focus properly
-belongs on the curriculum. It is the function of God’s teachers to bring
-true learning to the world. Properly speaking it is unlearning that they
-bring, for that is “true learning” in the world. It is given to the
-teachers of God to bring the glad tidings of complete forgiveness to the
-world. Blessed indeed are they, for they are the Bringers of salvation.
+<sup>10</sup> Not once do the advanced teachers of God consider the
+forms of sickness in which their brother believes. To do this is to
+forget that all of them have the same purpose and therefore are not
+really different. They seek for God's Voice in this brother who would so
+deceive himself as to believe God's Son can suffer. And they remind him
+that he has not made himself and must remain as God created him. They
+recognize illusions can have no effect. The truth in their minds reaches
+out to the truth in the minds of their brothers, so that illusions are
+not reinforced. They are thus brought to truth, and truth is not brought
+to them. So are they dispelled, not by the will of another but by the
+union of the One will with itself. And this is the function of God's
+teachers—to see no will as separate from their own, nor theirs as
+separate from God's.
 

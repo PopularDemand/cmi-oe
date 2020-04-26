@@ -1,74 +1,53 @@
 ---
-title: How is Judgement Relinquished?
+title: How is Peace Possible in this World?
 ---
 
-Judgement, like other devices by which the world of illusions is
-maintained, is totally misunderstood by the world. It is actually
-confused with wisdom, and substitutes for truth. As the world uses the
-term, an individual is capable of “good” and “bad” judgement, and his
-education aims at strengthening the former and minimizing the latter.
-There is, however, considerable confusion about what these categories
-mean. What is “good judgement” to one is “bad judgement” to another.
-Further, even the same person classifies the same action as showing
-“good” judgement at one time and “bad” judgement at another time. Nor
-can any consistent criteria for determining what these categories are be
-really taught. At any time the student may disagree with what his
-would-be teacher says about it, and the teacher himself is inconsistent
-in what he believes.
+11\. How is Peace Possible in this World?
+{: .lesson-header}
 
-“Good judgement” in these terms, does not mean anything. No more does
-“bad.” It is necessary for the teacher of God to realize not that he
-should not judge, but that he cannot. In giving up judgement he merely
-gives up what he did not have. He gives up an illusion; or better, he
-has an illusion of giving up. He has actually merely become more honest.
-Recognizing that judgement was always impossible for him, he no longer
-attempts it. This is no sacrifice. On the contrary, he puts himself in a
-position where judgement through him rather than by him can occur. And
-this judgement is neither “good” nor “bad.” It is the only judgement
-there is, and it is only one: “God’s Son is guiltless, and sin does not
-exist.”
+This is a question everyone must ask. Certainly peace seems to be
+impossible. Yet the Word of God promises other things that seem
+impossible, as well as this. His Word has promised peace. It has also
+promised that there is no death, that resurrection must occur, and that
+rebirth is man's inheritance. The world you see cannot be the world God
+loves, and yet His Word assures us that He loves the world. God's Word
+has promised us that peace is possible here, and what He promises can
+hardly be impossible. But it is true that the world must be looked at
+differently if His promises are to be accepted. What the world is, is
+but a fact. You cannot choose what this should be. But you can choose
+how you would see it. Indeed, you must choose this.
 
-The aim of our curriculum, unlike the goal of the world’s learning, is
-the recognition that judgement in the usual sense is impossible. This is
-not an opinion but a fact. In order to judge anything rightly, one would
-have to be fully aware of an inconceivably wide range of things, past,
-present, and to come. One would have to recognize in advance all the
-effects of his judgements on everyone and everything involved in them in
-any way. And one would have to be certain there is no distortion in his
-perception, so that his judgement would be wholly fair to everyone on
-whom it rests now and in the future. Who is in a position to do this?
-Who except in grandiose fantasies would claim this for himself?
+<sup>2</sup> Again we come to the question of judgment. This time, ask
+yourself whether your judgment or the Word of God is more likely to be
+true. For they say different things about the world, and things so
+opposite that it is pointless to try to reconcile them. God offers the
+world salvation; your judgment would condemn it. God says there is no
+death; your judgment sees but death as the inevitable end of life. God's
+Word assures you that He loves the world; your judgment says it is
+unlovable. Who is right? For one of you is wrong. It must be so.
 
-Remember how many times you thought you knew all the “facts” you needed
-for judgement, and how wrong you were! Is there anyone who has not had
-this experience? Would you know how many times you merely thought you
-were right, without ever realizing you were wrong? Why would you choose
-such an arbitrary basis for decision-making?  Wisdom is not judgement;
-it is the relinquishment of judgement. Make then but one more judgement.
-It is this; there is Someone with you Whose judgement is perfect. He
-does know all the facts, past, present, and to come. He does know all
-the effects of His judgement on everyone and everything involved in any
-way. And He is wholly fair to everyone, for there is no distortion in
-His perception.
+<sup>3</sup> The text explains that the Holy Spirit is the Answer to all
+problems you have made. These problems are not real, but that is
+meaningless to those who believe in them. And everyone believes in what
+he made, for it was made by his believing it. Into this strange and
+paradoxical situation—one without meaning and devoid of sense, yet out
+of which no way seems possible—God has sent His Judgment to answer
+yours. Gently His Judgment substitutes for yours. And through this
+substitution is the ununderstandable made understandable. How is peace
+possible in this world? In your judgment it is not possible and can
+never be possible. But in the Judgment of God, what is reflected here is
+only peace.
 
-Therefore lay judgement down, not with regret but with a sigh of
-gratitude. Now are you free of a burden so great that you could merely
-stagger and fall down beneath it. And it was all illusion. Nothing more.
-Now can the teacher of God rise up unburdened and walk lightly on. Yet it
-is not only this that is his benefit. His sense of care is gone, for he
-has none. He has given it away, along with judgement. He gave himself to
-Him Whose judgement he has chosen now to trust instead of his own. Now
-he makes no mistakes. His Guide is sure. And where he came to judge he
-comes to bless. Where now he laughs he used to come to weep.
-
-It is not difficult to relinquish judgement. But it is difficult indeed
-to try to keep it. The teacher of God lays it down happily the instant he
-recognizes its cost. All of the ugliness he sees about him is its
-outcome. All of the pain he looks upon is its result. All of the
-loneliness and sense of loss; of passing time and growing hopelessness;
-of sickening despair and fear of death; all these have come of it. And
-now he knows that these things need not be. Not one is true. For he has
-given up their cause, and they, which never were but the effects of his
-mistaken choice, have fallen from him. Teacher of God, this step will
-bring you peace. Can it be difficult to want but this?
+<sup>4</sup> Peace is impossible to those who look on war. Peace is
+inevitable to those who offer peace. How easily, then, is your judgment
+of the world escaped! It is not the world that makes peace seem
+impossible. It is the world you see that is impossible. Yet has God's
+Judgment on this distorted world redeemed it and made it fit to welcome
+peace. And peace descends on it in joyous answer. Peace now belongs
+here, because a thought of God has entered. What else but a thought of
+God turns hell to Heaven merely by being what it is? The earth bows down
+before its gracious Presence, and it leans down in answer to raise it up
+again. Now is the question different. It is no longer, “Can peace be
+possible in this world?” but instead, “Is it not impossible that peace
+be absent here?”
 

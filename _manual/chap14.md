@@ -1,92 +1,68 @@
 ---
-title: What is the Real Meaning of Sacrifice?
+title: How Will the World End?
 ---
 
-Although in truth the term sacrifice is altogether meaningless, it does
-have meaning in the world. Like all things in the world its meaning is
-temporary, and will ultimately fade into the nothingness from which it
-came when there is no more use for it. Now its real meaning is a lesson.
-Like all lessons it is an illusion, for in reality there is nothing to
-learn. Yet this illusion must be replaced by a corrective device;
-another illusion that replaces the first, so both can finally disappear.
-The first illusion, which must be displaced before another thought
-system can take hold, is that it is a sacrifice to give up the things of
-this world. What could this be but an illusion, since this world itself
-is nothing more than that?
+14\. How Will the World End?
+{: .lesson-header}
 
-It takes great learning both to realize and to accept the fact that the
-world has nothing to give. What can the sacrifice of nothing mean? It
-cannot mean that you have less because of it. There is no sacrifice in
-the world’s terms that does not involve the body. Think a while about
-what the world calls sacrifice. Power, fame, money, physical pleasure;
-who is the hero to whom all these things belong? Could they mean
-anything except to a body? Yet a body cannot evaluate. By seeking after
-such things the mind associates itself with the body, obscuring its
-identity and losing sight of what it really is.
+Can what has no beginning really end? The world will end in an illusion,
+as it began. Yet will its ending be an illusion of mercy. The illusion
+of forgiveness, complete, excluding no one, limitless in gentleness,
+will cover it, hiding all evil, concealing all sin, and ending guilt
+forever. So ends the world that guilt had made, for now it has no
+purpose and is gone. The father of illusions is the belief that they
+have a purpose; that they serve a need or gratify a want. Perceived as
+purposeless, they are no longer seen. Their uselessness is recognized,
+and they are gone. How but in this way are all illusions ended? They
+have been brought to truth, and truth saw them not. It merely overlooked
+the meaningless.
 
-Once this confusion has occurred, it becomes impossible for the mind to
-understand that all the “pleasures” of the world are nothing. But what a
-sacrifice, – and it is sacrifice indeed – all this entails! Now has the
-mind condemned itself to seek without finding; to be forever
-dissatisfied and discontented; to know not what it really wants to find.
-Who can escape this self-condemnation? Only through God’s Word could
-this be possible. For self-condemnation is a decision about identity,
-and no-one doubts what he believes he is. He can doubt all things but
-never this.
+<sup>2</sup> Until forgiveness is complete, the world does have a
+purpose. It becomes the home in which forgiveness is born and where it
+grows and becomes stronger and more all embracing. Here is it nourished,
+for here it is needed. A gentle Savior, born where sin was made and
+guilt seemed real. Here is His home, for here there is need of Him
+indeed. He brings the ending of the world with Him. It is His Call God's
+teachers answer, turning to Him in silence to receive His Word. The
+world will end when all things in it have been rightly judged by His
+judgment. The world will end with the benediction of holiness upon it.
+When not one thought of sin remains, the world is over. It will not be
+destroyed nor attacked nor even touched. It will merely cease to seem to
+be.
 
-God’s teachers can have no regret on giving up the pleasures of the
-world. Is it a sacrifice to give up pain? Does an adult resent the
-giving up of children’s toys? Does one whose vision has already glimpsed
-the Face of Christ look back with longing on a slaughter
-house? No-one who has escaped the world and all its ills looks back on
-it with condemnation. Yet he must rejoice that he is free of all the
-sacrifice which its value would demand of him. To them he sacrifices all
-his freedom. To them he sacrifices all his peace. And to possess them
-must he sacrifice his hope of Heaven and remembrance of his Father’s
-Love. Who in his sane mind chooses nothing as a substitute for
-everything?
+<sup>3</sup> Certainly this seems to be a long, long while away. “When
+not one thought of sin remains” appears to be a long-range goal indeed.
+But time stands still and waits on the goals of God's teachers. Not one
+thought of sin will remain the instant any one of them accepts the
+Atonement for himself. It is not easier to forgive one sin than to
+forgive all of them. The illusion of orders of difficulty is an obstacle
+the teacher of God must learn to pass by and leave behind. One sin
+perfectly forgiven by one teacher of God can make salvation complete.
+Can you understand this? No; it is meaningless to anyone here. Yet it is
+the final lesson in which unity is restored. It goes against all the
+thinking of the world, but so does Heaven.
 
-What is the real meaning of sacrifice? It is the cost of believing in
-illusions. It is the price that must be paid for the denial of truth.
-There is no pleasure of the world that does not demand this, for
-otherwise the pleasure would be seen as pain. And no one asks for pain
-if he recognizes it. It is the idea of sacrifice that makes him blind.
-He does not see what he is asking for. And so he seeks it in a thousand
-ways and in a thousand places, each time believing it is there and each
-time disappointed in the end. “Seek but do not find,” remains this
-world’s stern decree, and no-one who pursues the world’s goals can do
-otherwise.
+<sup>4</sup> The world will end when its thought system has been
+completely reversed. Until then, bits and pieces of its thinking will
+still seem sensible. The final lesson which brings the ending of the
+world cannot be grasped by those not yet prepared to leave the world and
+go beyond its tiny reach. What, then, is the function of the teacher of
+God in this concluding lesson? He need merely learn how to approach it,
+to be willing to go in its direction. He need merely trust that, if
+God's Voice tells him it is a lesson he can learn, he can learn it. He
+does not judge it either as hard or easy. His Teacher points to it, and
+he trusts that He will show him how to learn it.
 
-You may believe this course requires sacrifice of all you really hold
-dear. In one sense that is true, for you hold dear the things that
-crucify God’s Son. And it is the course’s aim to set him free. But do
-not be mistaken about what sacrifice means. It always means the giving
-up of what you want. And what, oh teacher of God, is it that you want?
-You have been called by God, and you have answered. Would you now
-sacrifice that Call? Few have heard it as yet, and they can but turn to
-you. There is no other hope in all the world that they can trust. There
-is no other voice in all the world that echoes God’s. If you would
-sacrifice the truth, they stay in hell. And if they stay, you will
-remain with them.
-
-Do not forget that sacrifice is total. There are no “half sacrifices.”
-You cannot give up Heaven partially. You cannot be a little bit in hell.
-The Word of God has no exceptions. It is this that makes It holy and
-beyond the world. It is Its holiness that points to God. It is Its
-holiness that makes you safe. It is denied if you attack any brother for
-anything. For it is here the split with God occurs. A split that is
-impossible. A split that cannot happen. Yet a split in which you surely
-will believe, because you have set up a situation that is impossible.
-And in this situation the impossible can seem to happen. It seems to
-happen at the “sacrifice” of truth.
-
-Teacher of God, do not forget the meaning of sacrifice, and remember
-what each decision you make must mean in terms of cost. Decide for God
-and everything is given you at no cost at all. Decide against Him and
-you choose nothing at the expense of the awareness of everything. What
-would you teach? Remember only what you would learn. For it is here that
-your concern should be. Atonement is for you. Your learning claims it and
-your learning gives it. The world contains it not, but learn this course
-and it is yours. God holds out His Word to you, for He has need of
-teachers. What other way is there to save His Son?
+<sup>5</sup> The world will end in joy because it is a place of sorrow.
+When joy has come, the purpose of the world has gone. The world will end
+in peace because it is a place of war. When peace has come, what is the
+purpose of the world? The world will end in laughter because it is a
+place of tears. Where there is laughter, who can longer weep? And only
+complete forgiveness brings all this to bless the world. In blessing it
+departs, for it will not end as it began. To turn hell into Heaven is
+the function of God's teachers, for what they teach are lessons in which
+Heaven is reflected. And now sit down in true humility and realize that
+all God would have you do, you can do. Do not be arrogant and say you
+cannot learn His own curriculum. His Word says otherwise. His Will be
+done. It cannot be otherwise. And be you thankful it is so.
 

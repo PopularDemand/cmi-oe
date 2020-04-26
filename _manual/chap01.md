@@ -1,60 +1,50 @@
 ---
-title: Introduction
+title: Who Are God's Teachers?
 ---
 
-The role of teaching and learning is actually reversed in the
-thinking of the world. The reversal is characteristic. It seems as if
-the teacher and the learner are separated, the teacher giving something
-to the learner rather than to himself. Further, the act of teaching is
-regarded as a special activity in which one engages only a relatively
-small proportion of one’s time. The course, on the other hand,
-emphasizes that to teach is to learn, so that teacher and learner are
-the same. It also emphasizes that teaching is a constant process; it
-goes on every moment of the day and continues into sleeping thoughts as
-well.
+1\. Who are God's Teachers?
+{: .lesson-header}
 
-To teach is to demonstrate. There are only two thought systems, and you
-demonstrate that you believe one or the other is true all the time. From
-your demonstration others learn and so do you. The question is not
-whether you will teach, for in that there is no choice. The purpose of
-the course might be said to provide you with a means of choosing what
-you want to teach on the basis of what you want to learn. You cannot
-give to someone else, and this you learn through teaching. Teaching is
-but a call to witnesses to attest to what you believe. It is a method of
-conversion. This is not done by words alone. Any situation must be to you
-a chance to teach others what you are and what they are to you. No more
-than that, but also never less.
+A teacher of God is anyone who chooses to be one. His qualifications
+consist solely in this; somehow, somewhere he has made a deliberate
+choice in which he did not see his interests as apart from someone
+else's. Once he has done that, his road is established and his direction
+is sure. A light has entered the darkness. It may be a single light, but
+that is enough. He has entered an agreement with God even if he does not
+yet believe in Him. He has become a bringer of salvation. He has become
+a teacher of God.
 
-The curriculum that you set up is therefore determined exclusively by
-what you think you are, and what you believe the relationship of others
-is to you. In the formal teaching situation, these questions may be
-totally unrelated to what you think you are teaching. Yet it is
-impossible not to use the content of any situation on behalf of what you
-really teach and therefore learn. To this the verbal content of your
-teaching is quite irrelevant. It may coincide with it or it may not. It
-is the teaching underlying what you say that teaches you. Teaching but
-reinforces what you believe about yourself. Its fundamental purpose is
-to diminish self doubt. This does not mean that the self you are trying
-to protect is real. But it does mean that the self you think is real is
-what you teach.
+<sup>2</sup> They come from all over the world. They come from all
+religions and from no religion. They are the ones who have answered. The
+Call is universal. It goes on all the time everywhere. It calls for
+teachers to speak for it and redeem the world. Many hear it, but few
+will answer. But it is all a matter of time. Everyone will answer in the
+end, but the end can be a long, long way off. It is because of this that
+the plan of the teachers was established. Their function is to save
+time. Each one begins as a single light, but with the Call at its
+center, it is a light that cannot be limited. And each one saves a
+thousand years of time as the world judges it. To the Call itself, time
+has no meaning.
 
-This is inevitable. There is no escape from it. How could it be
-otherwise? Everyone who follows the world’s curriculum, and everyone
-here does follow it until he changes his mind, teaches solely to
-convince himself that he is what he is not. Herein is the purpose of the
-world. What else, then, would its curriculum be? Into this hopeless and
-closed learning situation which teaches nothing but despair and death,
-God sends His teachers. And as they teach His lessons of joy and hope,
-their learning finally becomes complete.
+<sup>3</sup> There is a course for every teacher of God. The form of the
+course varies greatly. So do the particular teaching aids involved. But
+the content of the course never changes. Its central theme is always,
+“God's Son is guiltless, and in his innocence is his salvation.” It can
+be taught by actions or thoughts, in words or soundlessly, in any
+language or in no language, in any place or time or manner. It does not
+matter who the teacher was before he heard the Call. He has become a
+savior by his answering. He has seen someone else as himself. He has
+therefore found his own salvation and the salvation of the world. In his
+rebirth is the world reborn.
 
-Except for God’s teachers there would be no hope of salvation for the
-world of sin would seem forever “real”. The self-deceiving must deceive,
-for they must teach deception. And what else is hell? This is a manual
-for the teachers of God. They are not perfect or they would not be
-here. Yet it is their mission to become perfect here, and so they teach
-perfection over and over, in many, many ways, until they have learned
-it. And then they are seen no more, although their thoughts remain a
-source of strength and truth forever. Who are they? How are they chosen?
-What do they do? How can they work out their own salvation and the
-salvation of the world? This manual attempts to answer these questions.
+<sup>4</sup> This is a manual for a special curriculum, intended for
+teachers of a special form of the universal course. There are many
+thousands of other forms, all with the same outcome. They merely save
+time. Yet it is time alone that winds on wearily, and the world is very
+tired now. It is old and worn and without hope. There was never a
+question of outcome, for what can change the Will of God? But time, with
+its illusions of change and death, wears out the world and all things in
+it. Yet time has an ending, and it is this that the teachers of God are
+appointed to bring about. For time is in their hands. Such was their
+choice, and it is given them.
 

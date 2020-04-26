@@ -1,64 +1,64 @@
 ---
-title: What is the Peace of God?
+title: What is the Role of Words in Healing?
 ---
 
-It has been said that there is a kind of peace that is not of this
-world. How is it recognized? How is it found? And being found, how can
-it be retained? Let us consider each of these questions separately, for
-each reflects a different step along the way.
+21\. What is the Role of Words in Healing?
+{: .lesson-header}
 
-First, how can the peace of God be recognized? God’s peace is recognized
-at first by just one thing; in every way it is totally unlike all
-previous experiences. It calls to mind nothing that went before. It
-brings with it no past associations. It is a new thing entirely. There
-is a contrast, yes, between this thing and all the past. But strangely,
-it is not a contrast of true differences. The past just slips away, and
-in its place is everlasting quiet. Only that. The contrast first
-perceived is merely gone. Quiet has reached to cover everything.
+Strictly speaking, words play no part at all in healing. The motivating
+factor is prayer, or asking. What you ask for, you receive. But this
+refers to the prayer of the heart, not to the words you use in praying.
+Sometimes the words and the prayer are contradictory; sometimes they
+agree. It does not matter. God does not understand words, for they were
+made by separated minds to keep them in the illusion of separation.
+Words can be helpful, particularly for the beginner, in helping
+concentration and facilitating the exclusion or at least the control of
+extraneous thoughts. Let us not forget, however, that words are but
+symbols of symbols. They are thus twice removed from reality.
 
-How is this quiet found? No-one can fail to find it who but seeks out
-its conditions. God’s peace can never come where anger is, for anger
-must deny that peace exists. Who sees anger as justified in any way or
-any circumstance proclaims that peace is meaningless, and must believe
-that it cannot exist. In this condition peace cannot be found. Therefore
-forgiveness is the necessary condition for finding the peace of God.
-More than this, given forgiveness there must be peace. For what except
-attack will lead to war? And what but peace is opposite to war? Here the
-initial contrast stands out clear and apparent. Yet when peace is found
-the war is meaningless. And it is conflict now that is perceived as
-non-existent and unreal.
+<sup>2</sup> As symbols, words have quite specific references. Even when
+they seem most abstract, the picture that comes to mind is apt to be
+very concrete. Unless a specific referent does occur to the mind in
+conjunction with the word, the word has little or no practical meaning
+and thus cannot help the healing process. The prayer of the heart does
+not really ask for concrete things. It always requests some kind of
+experience, the specific things asked for being the bringers of the
+desired experience in the judgment of the asker. The words, then, are
+symbols for the things asked for, but the things themselves but stand
+for the experiences which are hoped for.
 
-How is the peace of God retained, once it is found? Returning anger, in
-whatever form, will drop the heavy curtain once again, and the belief
-that peace cannot exist will certainly return. War is again accepted as
-the one reality. Now must you once again lay down your sword, although
-you will not recognize that you have picked it up again. But you will
-learn, as you remember, even faintly now, what happiness was yours
-without it, that you must have taken it again as your defence. Stop for
-a moment now, and think of this: Is conflict what you want, or is God’s
-peace the better choice? Which gives you more? A tranquil mind is not a
-little gift. Would you not rather live than choose to die?
+<sup>3</sup> The prayer for things of this world will bring experiences
+of this world. If the prayer of the heart asks for this, this will be
+given because this will be received. It is impossible that the prayer of
+the heart remain unanswered in the perception of the one who asks. If he
+asks for the impossible, if he wants what does not exist or seeks for
+illusions in his heart, all this becomes his own. The power of his
+decision offers it to him, as he requests. Herein lie hell and Heaven.
+The sleeping Son of God has but this power left to him. It is enough.
+His words do not matter. Only the Word of God has any meaning, because
+it symbolizes that which has no human symbols at all. The Holy Spirit
+alone understands what this Word stands for. And this, too, is enough.
 
-Living is joy, but death can only weep. You see in death escape from
-what you made. But this you do not see; that you made death, and it is
-but illusion of an end. Death cannot be escape, because it is not life
-in which the problem lies. Life has no opposite, for it is God. Life and
-death seem to be opposites because you have decided death ends life.
-Forgive the world, and you will understand that everything which God
-created cannot have an end, and nothing He did not create is real. In
-this one sentence is our course explained. In this one sentence is our
-practicing given its one direction. And in this the Holy Spirit’s whole
-curriculum is specified exactly as it is.
+<sup>4</sup> Is the teacher of God then to avoid the use of words in his
+teaching? No, indeed. There are many who must be reached through words,
+being as yet unable to hear in silence. The teacher of God must,
+however, learn to use words in a new way. Gradually, he learns how to
+let his words be chosen for him by ceasing to decide for himself what he
+will say. This process is merely a special case of the workbook lesson
+“I will step back and let Him lead the way.” The teacher of God accepts
+the words which are offered him and gives as he receives. He does not
+control the direction of his speaking. He listens and hears and speaks.
 
-What is the peace of God? No more than this; the simple understanding
-that His Will is wholly without opposite. There is no thought that
-contradicts His Will yet can be true. The contrast between His Will and
-yours but seemed to be reality. In truth there is no conflict, because
-His Will is yours. Now is the mighty Will of God Himself His gift to
-you. He does not seek to keep it for Himself. Why would you seek to keep
-your tiny, frail imaginings apart from Him? The Will of God is one and
-all there is. This is your heritage. The universe beyond the sun and
-stars, and all the thoughts of which you can conceive, belong to you.
-God’s peace is the condition for His Will. Attain His peace, and you
-remember Him.
+<sup>5</sup> A major hindrance in this aspect of his learning is the
+teacher of God's fear about the validity of what he hears. And what he
+hears may indeed be quite startling. It may also seem to be quite
+irrelevant to the presented problem as he perceives it, and may, in
+fact, confront him with a situation that appears to be very
+embarrassing. All these are judgments which have no value. They are his
+own, coming from a shabby self-perception that he would leave behind.
+Judge not the words that come to you, but offer them in confidence. They
+are far wiser than your own. God's teachers have God's Word behind their
+symbols. And He Himself gives to the words they use the power of His
+Spirit, raising them from meaningless symbols to the call of Heaven
+itself.
 

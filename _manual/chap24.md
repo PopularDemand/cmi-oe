@@ -1,72 +1,78 @@
 ---
-title: Does Jesus Have a Special Place in Healing?
+title: Is Reincarnation True?
 ---
 
-God’s gifts can rarely be received directly. Even the most advanced of
-God’s teachers will give way to temptation in this world. Would it be
-fair if their pupils were denied healing because of this? The Bible says
-“Ask in the Name of Jesus Christ.” Is this merely an appeal to magic? A
-name does not heal, nor does an invocation call forth any special power.
-What does it mean to call on Jesus Christ? What does calling on his Name
-confer? Why is the appeal to him part of healing?
+24\. Is Reincarnation True?
+{: .lesson-header}
 
-We have repeatedly stated that one who has perfectly accepted the
-Atonement for himself can heal the world. Indeed, he has already done
-so. Temptation may recur to others, but never to this One. He has become
-the risen Son of God. He has overcome death because he has accepted
-Life. He has recognized himself as God created him, and in so doing he
-has recognized all living things as part of him. There is now no limit
-on his power, because it is the Power of God. So has his name become the
-Name of God, for he no longer sees himself as separate from Him.
+In the ultimate sense, reincarnation is impossible. There is no past nor
+future, and the idea of birth into a body has no meaning either once or
+many times. Reincarnation cannot, then, be true in any real sense. Our
+only question should be, “Is the concept helpful?” And that depends of
+course on what it is used for. If it is used to strengthen the
+recognition of the eternal nature of life, it is helpful indeed. Is any
+other question about it really useful in lighting up the way? Like many
+other beliefs, it can be bitterly misused. At least, such misuse offers
+preoccupation and perhaps pride in the past. At worst, it induces
+inertia in the present. In between many kinds of folly are possible.
 
-What does this mean to you? It means that in remembering Jesus you are
-remembering God. The whole relationship of the Son to the Father lies in
-him. His part in the Sonship is also yours, and his completed learning
-guarantees your own success. Is he still available for help? What did he
-say about this? Remember his promises, and ask yourself honestly whether
-it is likely he will fail to keep them. Can God fail His Son? And can
-one who is one with God be unlike Him? Who transcends the body has
-transcended limitation. Would the greatest teacher be unavailable to
-those who follow him?
+<sup>2</sup> Reincarnation would not, under any circumstances, be the
+problem to be dealt with now. If it were responsible for some of the
+difficulties the individual faces now, his task would still be only to
+escape from them now. If he is laying the groundwork for a future life,
+he can still work out his salvation only now. To some there may be
+comfort in the concept, and if it heartens them, its value is
+self-evident. It is certain, however, that the way to salvation can be
+found by those who believe in reincarnation and by those who do not. The
+idea cannot, therefore, be regarded as essential to the curriculum.
+There is always some risk in seeing the present in terms of the past.
+There is always some good in any thought which strengthens the idea that
+life and the body are not the same.
 
-The Name of Jesus Christ as such is but a symbol. But it stands for love
-that is not of this world. It is a symbol that can safely be used as a
-replacement for the many names of all the gods you pray to. It becomes
-the shining symbol for the Word of God, so close to What it stands for
-that the little space between the two is lost the moment that the Name
-is called to mind. Remembering His Name is to give thanks for all the
-gifts that God has given you. And gratitude to God becomes the way in
-which He is remembered, for love cannot be far
-behind a grateful heart and thankful mind. God enters easily, for these
-are the true conditions for your coming home.
+<sup>3</sup> For our purposes, it would not be helpful to take any
+definite stand on reincarnation. A teacher of God should be as helpful
+to those who believe in it as to those who do not. If a definite stand
+on it were required of him, it would merely limit his usefulness as well
+as his own decision-making. Our course is not concerned with any concept
+that is not acceptable to anyone, regardless of his formal beliefs. His
+ego will be enough for him to cope with, and it is not part of wisdom to
+add sectarian controversies to his burdens. Nor would there be an
+advantage in his premature acceptance of the course merely because it
+advocates a long-held belief of his own.
 
-Jesus has led the way. Why would you not be grateful to him? He has
-asked for love, but only that he might give it to you. You do not love
-yourself. But in his eyes your loveliness is so complete and flawless
-that he sees in it an image of his Father. You become the symbol of his
-Father here on earth. To you he looks for hope, because in you he sees no
-limit and no stain to mar your beautiful perfection. In his eyes
-Christ’s vision shines in perfect constancy. He has remained with you.
-Would you not learn the lesson of salvation through his learning? Why
-would you choose to start again, when he has made the journey for you?
+<sup>4</sup> It cannot be too strongly emphasized that this course aims
+at a complete reversal of thought. When this is finally accomplished,
+issues such as the validity of reincarnation become meaningless. Until
+then they are likely to be merely controversial. The teacher of God is
+therefore wise to step away from all such questions, for he has much to
+teach and learn apart from them. He should both learn and teach that
+theoretical issues but waste time, draining it away from its appointed
+purpose. If there are aspects to any concept or belief that will be
+helpful, he will be told about it. He will also be told how to use it.
+What more need he know?
 
-No-one on earth can grasp what Heaven is, or what its One Creator really
-means. Yet we have witnesses. It is to them that wisdom would appeal.
-There have been those whose learning far exceeds what you can learn. Nor
-would we teach the limitations we have laid on us. No-one who has become
-a true and dedicated teacher of God forgets his brothers. Yet what he
-can offer them is limited by what he learns himself. Then turn to one
-who laid all limits by, and went beyond the farthest reach of learning.
-He will take you with him, for he did not go alone. And you were with
-him then, as you are now.
+<sup>5</sup> Does this mean that the teacher of God should not believe
+in reincarnation himself or discuss it with others who do? The answer is
+certainly not! If he does believe in reincarnation, it would be a
+mistake for him to renounce the belief unless his Internal Teacher so
+advised. And this is most unlikely. He might be advised that he is
+misusing the belief in some way which is detrimental to his pupil's
+advance or his own. Reinterpretation would then be recommended because
+it would be necessary. All that must be recognized, however, is that
+birth was not the beginning and death is not the end. Yet even this much
+is not required of the beginner. He need merely accept the idea that
+what he knows is not necessarily all there is to learn. His journey has
+begun.
 
-This course has come from him because his words have reached you in a
-language you can love and understand. Are other teachers possible, to
-lead the way to those who speak in different tongues and appeal to
-different symbols? Certainly there are. Would God leave anyone without a
-very present help in time of trouble? A Savior who can symbolize
-Himself? Yet do we need a many-faceted curriculum, not because of
-content differences but because symbols must shift and change to suit
-the need. Jesus has come to answer yours. In him you find God’s Answer.
-Do you then teach with him, for he is with you; he is always here.
+<sup>6</sup> The emphasis of this course always remains the same—it is
+at this moment that complete salvation is offered you, and it is at this
+moment that you can accept it. This is still your one responsibility.
+Atonement might be equated with total escape from the past and total
+lack of interest in the future. Heaven is here. There is nowhere else.
+Heaven is now. There is no other time. No teaching that does not lead to
+this is of concern to God's teachers. All beliefs will point to this if
+properly interpreted. In this sense it can be said that their truth lies
+in their usefulness. All beliefs that lead to progress should be
+honored. This is the sole criterion this course requires. No more than
+this is necessary.
 

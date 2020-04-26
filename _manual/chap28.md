@@ -1,77 +1,72 @@
 ---
-title: What is Death?
+title: What is the Resurrection?
 ---
 
-Death is the central dream from which all illusions stem. Is it not
-madness to think of life as being born, aging, losing vitality, and
-dying in the end? We have asked this question before but now we need to
-consider it still more carefully. It is the one fixed, unchangeable
-belief of the world that all things in it are born only to die. This is
-regarded as “the way of nature,” not to be raised to question, but to be
-accepted as the “natural” law of life. The cyclical, the changing and
-unsure; the undependable and the unsteady, waxing and waning in a
-certain way upon a certain path, – all this is taken as the Will of God.
-And no one asks if a benign Creator could will this.
+28\. What is the Resurrection?
+{: .lesson-header}
 
-In this perception of the universe as God created it, it would not be
-possible to think of Him as loving. For who has decreed that all things
-pass away, ending in dust and disappointment and despair, can but be
-feared. He holds your little life in His hand but by a thread, ready to
-break it off without regret or care, perhaps today. Or if He waits, yet
-is the ending certain. Who loves such a god knows not of love, because
-he has denied that life is real. Death has become life’s symbol. His
-world is now a battleground, where contradiction reigns, and opposites
-make endless war. Where there is death is peace impossible.
+Very simply, the resurrection is the overcoming or surmounting of death.
+It is a reawakening or a rebirth, a change of mind about the meaning of
+the world. It is the acceptance of the Holy Spirit's interpretation of
+the world's purpose; the acceptance of the Atonement for oneself. It is
+the end of dreams of misery and the glad awareness of the Holy Spirit's
+final dream. It is the recognition of the gifts of God. It is the dream
+in which the body functions perfectly, having no function except
+communication. It is the lesson in which learning ends, for it is
+consummated and surpassed with this. It is the invitation to God to take
+His final step. It is the relinquishment of all other purposes, all
+other interests, all other wishes, and all other concerns. It is the
+single desire of the Son for the Father.
 
-Death is the symbol of the fear of God. His Love is blotted out in the
-idea, which holds It from awareness like a shield held to obscure the
-sun. The grimness of the symbol is enough to show it cannot co-exist
-with God. It holds an image of the Son of God in which he is “laid to
-rest” in devastation’s arms, where worms wait to greet him and to last a
-little while by his destruction. Yet the worms as well are doomed to be
-destroyed as certainly. And so do all things live because of death.
-Devouring is nature’s “law of life.” God is insane, and fear alone is
-real.
+<sup>2</sup> The resurrection is the denial of death, being the
+assertion of life. Thus is all the thinking of the world reversed
+entirely. Life is now recognized as salvation, and pain and misery of
+any kind perceived as hell. Love is no longer feared but gladly
+welcomed. Idols have disappeared, and the remembrance of God shines
+unimpeded across the world. Christ's face is seen in every living thing,
+and nothing is held in darkness apart from the light of forgiveness.
+There is no sorrow still upon the earth. The joy of Heaven has come upon
+it.
 
-The curious belief that there is part of dying things that may go on
-apart from what will die does not proclaim a loving God, nor
-re-establish any grounds for trust. If death is real for anything, there
-is no life. Death denies life, but if there is reality in life, death is
-denied. No compromise in this is possible. There is either a god of fear
-or One of
-Love. The world attempts a thousand compromises, and will attempt a
-thousand more. Not one can be acceptable to God’s teachers because not
-one could be acceptable to God. He did not make death because He did not
-make fear. Both are equally meaningless to Him.
+<sup>3</sup> Here the curriculum ends. From here on no directions are
+needed. Vision is wholly corrected and all mistakes undone. Attack is
+meaningless, and peace has come. The goal of the curriculum has been
+achieved. Thoughts turn to Heaven and away from hell. All longings are
+satisfied, for what remains unanswered or incomplete? The last illusion
+spreads over the world, forgiving all things and replacing all attack.
+The whole reversal is accomplished. Nothing is left to contradict the
+Word of God. There is no opposition to the truth. And now the truth can
+come at last. How quickly will it come as it is asked to enter and
+envelop such a world!
 
-The “reality” of death is firmly rooted in the belief that God’s Son is
-a body. And if God created bodies, death would indeed be real. But God
-would not be loving. There is no point at which the contrast between the
-perception of the real world and that of the world of illusions becomes
-more sharply evident. Death is indeed the death of God, if He is Love.
-And now His own creation must stand in fear of Him. He is not Father but
-destroyer. He is not Creator but avenger. Terrible His Thoughts and
-fearful His image. To look on His creations is to die.
+<sup>4</sup> All living hearts are tranquil, with a stir of deep
+anticipation, for the time of everlasting things is now at hand. There
+is no death. The Son of God is free. And in his freedom is the end of
+fear. No hidden places now remain on earth to shelter sick illusions,
+dreams of fear, and misperceptions of the universe. All things are seen
+in light, and in the light their purpose is transformed and understood.
+And we, God's children, rise up from the dust and look upon our perfect
+sinlessness. The song of Heaven sounds around the world, as it is lifted
+up and brought to truth.
 
-“And the last to be overcome will be death.” Of course! Without the idea
-of death there is no world. All dreams will end with this one. This is
-salvation’s final goal; the end of all illusions. And in death are all
-illusions born. What can be born of death and still have life? But what
-is born of God and still can die? The inconsistencies, the compromises,
-and the rituals the world fosters in its vain attempts to cling to death
-and yet to think love real are mindless magic, ineffectual and
-meaningless. God is, and in Him all created things must be eternal. Do
-you not see that otherwise He has an opposite, and fear would be as real
-as love?
+<sup>5</sup> Now there are no distinctions. Differences have
+disappeared, and Love looks on Itself. What further sight is needed?
+What remains that vision could accomplish? We have seen the face of
+Christ, His sinlessness, His love behind all forms, beyond all purposes.
+Holy are we because His holiness has set us free indeed, and we accept
+His holiness as ours, as it is. As God created us, so will we be forever
+and forever, and we wish for nothing but His Will to be our own.
+Illusions of another will are lost, for unity of purpose has been found.
 
-Teacher of God, your one assignment could be stated thus: Accept no
-compromise in which death plays a part. Do not believe in cruelty, nor
-let attack conceal the truth from you. What seems to die has been
-misperceived and carried to illusion. Now it becomes your task to let
-the illusion be carried to the truth. Be steadfast but in this; be not
-deceived by the “reality” of any changing form. Truth neither moves nor
-wavers nor sinks down to death and dissolution. And what is the end of
-death? Nothing but this; the realization that the Son of God is
-guiltless now and forever. Nothing but this. But do not let yourself
-forget it is not less than this.
+<sup>6</sup> These things await us all, but we are not prepared as yet
+to welcome them with joy. As long as any mind remains possessed of evil
+dreams, the thought of hell is real. God's teachers have the goal of
+wakening the minds of those asleep and seeing there the vision of
+Christ's face to take the place of what they dreamed. The thought of
+murder is replaced with blessing. Judgment is laid by and given Him
+Whose function judgment is. And in His Final Judgment is restored the
+truth about the holy Son of God. He is redeemed, for he has heard God's
+Word and understood its meaning. He is free because he let God's Voice
+proclaim the truth. And all he sought before to crucify are resurrected
+with him, by his side as he prepares with them to meet his God.
 

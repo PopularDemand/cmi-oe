@@ -4,11 +4,11 @@ workingDir=`pwd`
 scriptDir=`dirname $0`
 scriptName=`basename $0`
 
-unitDir="/Users/rmercer/Projects/cmi/site/cmi-acim"
+unitDir="/Users/rmercer/Projects/cmi/site/cmi-oe"
 awkFile="acim.awk"
 debug=0
 
-source="acim"
+source="acimoe"
 
 function syntax {
   echo "prep -b <book> file"

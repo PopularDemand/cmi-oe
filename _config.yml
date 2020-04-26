@@ -5,7 +5,7 @@ sourceId: 15
 cmiTitle: "Teachings of Christ Mind"
 
 # Setup
-title:        'A Course in Miracles'
+title:        'ACIM Original Edition'
 tagline:      'Original Edition'
 description:  ''
 url:          'https://www.christmind.info/t/acimoe'
@@ -83,7 +83,7 @@ defaults:
       image-width: 612
       image-height: 792
       bid: "workbook"
-      audio: false
+      audio: true
   - scope:
       path: ""
       type: manual
@@ -94,7 +94,7 @@ defaults:
       image-width: 612
       image-height: 792
       bid: "manual"
-      audio: false
+      audio: true
 
 exclude: [
   moved.html, deploy, LICENSE, README.md, Gemfile, Gemfile.lock, package.json, package-lock.json, node_modules, webpack.config.js, src, project

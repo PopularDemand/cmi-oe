@@ -1,52 +1,65 @@
 ---
-title: How is Correction Made?
+title: What is Justice?
 ---
 
-Correction of a lasting nature, – and only this is true correction, –
-cannot be made until the teacher of God has ceased to confuse
-interpretation with fact, or illusion with truth. If he argues with his
-pupil about a magic thought, attacks it, tries to establish its error or
-demonstrate its falsity, he is but witnessing to its reality. Depression
-is then inevitable, for he has “proved,” both to his pupil and himself
-that it is their task to escape from what is real. And this can only be
-impossible. Reality is changeless. Magic thoughts are but illusions.
-Otherwise salvation would be only the same age old impossible dream in
-but another form. Yet the dream of salvation has new content. It is not
-the form alone in which the difference lies.
+19\. What is Justice?
+{: .lesson-header}
 
-God’s teachers’ major lesson is to learn how to react to magic thoughts
-wholly without anger. Only in this way can they proclaim the truth about
-themselves. Through them, the Holy Spirit can now speak of the reality
-of the Son of God. Now He can remind the world of sinlessness, the one
-unchanged, unchangeable condition of all that God created. Now He can
-speak the Word of God to listening ears, and bring Christ’s vision to
-the eyes that see. Now is He free to teach all minds the truth of what
-they are, so they will gladly be returned to Him. And now is guilt
-forgiven, overlooked completely in His sight and in God’s Word.
+Justice is the divine correction for injustice. Injustice is the basis
+for all the judgments of the world. Justice corrects the interpretations
+to which injustice gives rise and cancels them out. Neither justice nor
+injustice exists in Heaven, for error is impossible and correction
+meaningless. In this world, however, forgiveness depends on justice
+since all attack can only be unjust. Justice is the Holy Spirit's
+verdict upon the world. Except in His judgment, justice is impossible,
+for no one in the world is capable of making only just interpretations
+and laying all injustices aside. If God's Son were fairly judged, there
+would be no need for salvation. The thought of separation would have
+been forever inconceivable.
 
-Anger but screeches,“Guilt is real.” Reality is blocked out as this
-insane belief is taken as replacement for God’s Word. The body’s eyes now
-“see”; its ears alone are thought to hear. Its little space and tiny
-breath become the measure of reality. And truth becomes diminutive and
-meaningless. Correction has one answer to all this, and to the world
-that rests on this:
+<sup>2</sup> Justice, like its opposite, is an interpretation. It is,
+however, the one interpretation that leads to truth. This becomes
+possible because, while it is not true in itself, justice includes
+nothing that opposes truth. There is no inherent conflict between
+justice and truth; one is but the first small step in the direction of
+the other. The path becomes quite different as one goes along. Nor could
+all the magnificence, the grandeur of the scene and the enormous opening
+vistas that rise to meet one as he travels on, be foretold from the
+outset. Yet even these, whose splendor reaches indescribable heights as
+one proceeds, falls short indeed of all that awaits one when the pathway
+ceases and time ends with it. But somewhere one must start. Justice is
+the beginning.
 
-> “You but mistake interpretation for the truth. And you are wrong. But
-> a mistake is not a sin, nor has reality been taken from its throne by
-> your mistakes. God reigns forever, and His laws alone prevail upon you
-> and upon the world. His Love remains the only thing there is. Fear is
-> illusion, for you are like Him.”
+<sup>3</sup> All concepts of your brothers and yourself, all fears of
+future states, and all concern about the past stem from injustice. Here
+is the lens which, held before the body's eyes, distorts perception and
+brings witness of the distorted world back to the mind that made the
+lens and holds it very dear. Selectively and arbitrarily is every
+concept of the world built up in just this way. “Sins” are perceived and
+justified by this careful selectivity in which all thought of wholeness
+must be lost. Forgiveness has no place in such a scheme, for not one
+“sin” but seems forever true.
 
-In order to heal, it thus becomes essential for the teacher of God
-to let all his own mistakes be corrected. If he senses even the faintest
-hint of irritation in himself as he responds to anyone, let him
-instantly realize that he has made an interpretation that is not
-true. Then let him turn within to his Eternal Guide, and let Him judge
-what the response should be. So is he healed, and in his healing is his
-pupil healed with him. The sole responsibility of God’s teacher is to
-accept the Atonement for himself. Atonement means correction, or the
-undoing of errors. When this has been accomplished, the teacher of God
-becomes a miracle worker by definition. His sins have been forgiven him,
-and he no longer condemns himself. How can he then condemn anyone? And
-who is there whom his forgiveness can fail to heal?
+<sup>4</sup> Salvation is God's justice. It restores to your awareness
+the wholeness of the fragments you perceive as broken off and separate.
+And it is this that overcomes the fear of death. For separate fragments
+must decay and die, but wholeness is immortal. It remains forever and
+forever like its Creator, being one with Him. God's Judgment is His
+justice. Onto this—a judgment wholly lacking in condemnation, an
+evaluation based entirely on love—you have projected your injustice,
+attributing to God the lens of warped perception through which you look.
+Now it belongs to Him and not to you. You are afraid of Him and do not
+see you hate and fear your Self as enemy.
+
+<sup>5</sup> Pray for God's justice, and do not confuse His mercy with
+your own insanity. Perception can make whatever picture the mind desires
+to see. Remember this. In this lies either Heaven or hell, as you elect.
+God's justice points to Heaven just because it is entirely impartial. It
+accepts all evidence that is brought before it, omitting nothing and
+assessing nothing as separate and apart from all the rest. From this one
+standpoint does it judge, and this alone. Here all attack and
+condemnation becomes meaningless and indefensible. Perception rests, the
+mind is still, and light returns again. Vision is now restored. What had
+been lost has now been found. The peace of God descends on all the world
+and we can see. And we can see!
 

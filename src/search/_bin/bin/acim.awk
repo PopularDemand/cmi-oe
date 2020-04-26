@@ -106,14 +106,16 @@ $1 ~ /##/ {
       gsub(/\&rdquo;/, "", raw)
       gsub(/\&lsquo;/, "", raw)
       gsub(/\&rsquo;/, "", raw)
+      # remove <sup>.*</sup>
+      gsub(/<sup>[0-9]+<\/sup> /, "", raw)
       # remove <br/> 
-      gsub(/<br\/>/,"",raw)
+      gsub(/<br\/>/," ",raw)
       # remove <p></p> 
       gsub(/<\/?p[^>]*>/,"",raw)
       # remove <span></span> 
       gsub(/<\/?span[^>]*>/,"",raw)
       # remove punctuation
-      gsub(/[\[\])(*>.,!?;:’'"“”/\\]/,"",raw)
+      gsub(/[\[\])(*>.,!?;:’'"“”~/\\]/,"",raw)
       #remove 0xa0
       gsub(/ /,"",raw)
       # convert dash to space 

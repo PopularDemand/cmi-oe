@@ -16,7 +16,8 @@ opposite.
 
 <sup>3</sup> This course can therefore be summed up very simply in this way:
 
-<sup>4</sup> *Nothing real can be threatened.*<br/>*Nothing unreal exists.*
+<sup>4</sup> *Nothing real can be threatened.<br/>
+Nothing unreal exists.*
 
 <sup>5</sup> Herein lies the peace of God.
 
