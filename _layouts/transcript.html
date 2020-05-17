@@ -84,6 +84,11 @@
   <script src="/t/acimoe/public/js/vendors~transcript.js"></script>
   <script src="/t/acimoe/public/js/page~transcript.js"></script>
   <script src="/t/acimoe/public/js/transcript.js"></script>
+
+  {% if page.video == true %}
+    <script>$(".ui.embed").embed();</script>
+  {% endif %}
+
 </body>
 
 </html>

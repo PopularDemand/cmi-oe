@@ -13,7 +13,7 @@ function renderSections(base, sections, cidx) {
   return `
     <div id="c${cidx}" data-sections="${sections.length}" class="list">
       ${sections.map((q, qidx) => `
-        <a data-secid="${qidx}" class="item"
+        <a data-secid="${qidx}" class="item${getTimerClass(q)}"
           href="${base}${q.url}">${q.ref?q.ref+" ":""}${q.title}
         </a>
       `).join("")}
@@ -59,7 +59,7 @@ function makeTextContents(contents) {
 function renderWorkbookPage(base, pages, pidx, sidx, lesson) {
   return `
     <div id="${pidx + 1}.${sidx + 1}" data-sections="${pages.length}" class="list">
-      ${pages.map((p) => `<a data-lid="${++lesson.count}" class="item" href="${base}${p.url}">${p.lesson?p.lesson+". ":""}${p.title}</a>`).join("")}
+      ${pages.map((p) => `<a data-lid="${++lesson.count}" class="item${getTimerClass(p)}" href="${base}${p.url}">${p.lesson?p.lesson+". ":""}${p.title}</a>`).join("")}
     </div>
   `;
 }
@@ -100,14 +100,28 @@ function makeWorkbookContents(contents) {
 }
 
 /*
+* If there is timing or a timer defined for a toc item
+* set the class accordingly
+*/
+function getTimerClass(info) {
+  if (info.timing) {
+    return " __timing";
+  }
+  if (info.timer) {
+    return " __timer";
+  }
+  return "";
+}
+
+/*
   generate toc html for Manual
   Manual is organized in pages
 */
 function makeManualContents(base, pages) {
   return (`
-    <div class="ui relaxed ordered list">
+    <div class="ui relaxed list">
       ${pages.map((page, pidx) => `
-        <a data-lid="${pidx+1}" class="item" href="${base}${page.url}">${page.title}</a>`).join("")}
+        <a data-lid="${pidx+1}" class="item${getTimerClass(page)}" href="${base}${page.url}">${pidx > 0?pidx+". " :""}${page.title}</a>`).join("")}
     </div>
   `);
 }
@@ -320,7 +334,7 @@ function highlightCurrentTranscript(bid, setNextPrev = true) {
         manualNextPrev($el, 30);
         break;
       case "acq":
-        manualNextPrev($el, 2);
+        manualNextPrev($el, 6);
         break;
     }
   }

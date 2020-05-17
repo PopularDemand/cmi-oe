@@ -157,9 +157,30 @@ function setEventListeners(player, userStatus, haveTimingData) {
 }
 
 /*
-  A user is either a LISTENER or a TIMER. TIMER's are logged in and have a role of "timer",
-  additionally, if there is a reservation the timer is a timer only when the reservation
-  is for him.
+  Assign user status:
+    The status determines if the user can capture timing data.
+
+  A LISTENER is a user who does not have an account or a user who has an account but does
+  not have a role of "timer" or "editor".
+
+  A TIMER must have a reservation otherwise they are assigned a status of LISTENER.
+
+  An "editor" is always a TIMER if they have a reservation or not.
+
+  Roles can be assigned to users with accounts in the Netlify Identity feature. For timing, roles of
+  "timer" or "editor" are valid assignments.
+
+  Reservations are made in the config file for a book. For example, if user with email address of
+  user@example.com has a reservation to time chapter 1, section 1 of the Text, there will be an
+  entry in /public/config/text.json like this:
+
+				{
+					"title": "Tx.1.I. Principles of Miracles",
+					"audio": "/text/01/chap0101.mp3",
+					"timer": "user@example.com",
+					"url": "chap0101/"
+				},
+
 */
 function getUserStatus() {
   let user = getUserInfo();
@@ -177,24 +198,27 @@ function getUserStatus() {
   let timer = user.roles.find(r => r === "timer");
   let editor = user.roles.find(r => r === "editor");
 
-  if (!timer && !editor) {
+  //an editor is always a timer, if they have a reservation or not
+  //or if someone else has the reservation
+  if (editor) {
+    return "TIMER";
+  }
+
+  if (!timer) {
     return "LISTENER";
   }
 
   //User is a timer, check there is a timing reservation on the page
   let reservation = getReservation(location.pathname);
 
-  //no reservation, the user is a timer
+  //all timers must have a reservation
   if (!reservation) {
-    return "TIMER";  
+    //return "TIMER";
+    return "LISTENER";
   }
 
   //check if reservation is for the user
   if (reservation === user.email) {
-    return "TIMER";
-  }
-  //editors can time even if a reservation is held by someone else
-  else if (editor) {
     return "TIMER";
   }
 
@@ -213,10 +237,10 @@ function assignPlayerFeatures(timingData) {
 
   if (info.status === "LISTENER") {
     if (timingData) {
-      info.features = ["playpause", "current", "duration", "prevp", "nextp", "ptoggle"];
+      info.features = ["playpause", "current", "duration", "prevp", "nextp", "ptoggle", "speed"];
     }
     else {
-      info.features = ["playpause", "current", "duration", "skipback", "jumpforward"];
+      info.features = ["playpause", "current", "duration", "skipback", "jumpforward", "speed"];
     }
 
   }

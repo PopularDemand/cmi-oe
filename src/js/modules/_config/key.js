@@ -36,7 +36,7 @@ const books = ["text", "workbook", "manual", "acq"];
 const bookIds = ["xxx", ...books];
 
 //list the chapters or parts that make up each book, set the first item to 'xxx'
-const acq = ["xxx", "welcome", "acim"];
+const acq = ["xxx", "welcome", "acim", "cims", "formats", "contact", "timers"];
 
 //removed the "xxx" first element of the array
 const text = [ "xxx", "forward", "intro", "chap0101", "chap0102", "chap0201", "chap0202", "chap0203", "chap0204",

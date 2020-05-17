@@ -12,3 +12,11 @@
 .review-lesson {
   font-weight: 700;
 }
+
+a.item.__timing::before {
+  content: "🕙 ";
+}
+
+a.item.__timer::before {
+  content: "👤 ";
+}

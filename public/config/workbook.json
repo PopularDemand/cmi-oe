@@ -41,30 +41,40 @@
 						{
 							"url": "l002/",
 							"audio": "/workbook/l002.mp3",
+              "timer": "mike.glenn@outlook.com",
+              "timing": "/workbook/l002.json",
 							"lesson": 2,
 							"title": "I have given everything I see all the meaning that it has for me."
 						},
 						{
 							"url": "l003/",
 							"audio": "/workbook/l003.mp3",
+              "timer": "mike.glenn@outlook.com",
+              "timing": "/workbook/l003.json",
 							"lesson": 3,
 							"title": "I do not understand anything I see."
 						},
 						{
 							"url": "l004/",
 							"audio": "/workbook/l004.mp3",
+              "timer": "mike.glenn@outlook.com",
+              "timing": "/workbook/l004.json",
 							"lesson": 4,
 							"title": "These thoughts do not mean anything."
 						},
 						{
 							"url": "l005/",
 							"audio": "/workbook/l005.mp3",
+              "timer": "mike.glenn@outlook.com",
+              "timing": "/workbook/l005.json",
 							"lesson": 5,
 							"title": "I am never upset for the reason I think."
 						},
 						{
 							"url": "l006/",
 							"audio": "/workbook/l006.mp3",
+              "timer": "mike.glenn@outlook.com",
+              "timing": "/workbook/l006.json",
 							"lesson": 6,
 							"title": "I am upset because I see something that is not there."
 						},
@@ -72,263 +82,351 @@
 							"url": "l007/",
 							"audio": "/workbook/l007.mp3",
 							"lesson": 7,
+              "timer": "mike.glenn@outlook.com",
+              "timing": "/workbook/l007.json",
 							"title": "I see only the past."
 						},
 						{
 							"url": "l008/",
 							"audio": "/workbook/l008.mp3",
 							"lesson": 8,
+              "timer": "mike.glenn@outlook.com",
+              "timing": "/workbook/l008.json",
 							"title": "My mind is preoccupied with past thoughts."
 						},
 						{
 							"url": "l009/",
 							"audio": "/workbook/l009.mp3",
 							"lesson": 9,
+              "timer": "mike.glenn@outlook.com",
+              "timing": "/workbook/l009.json",
 							"title": "I see nothing as it is now."
 						},
 						{
 							"url": "l010/",
 							"audio": "/workbook/l010.mp3",
 							"lesson": 10,
+              "timer": "mike.glenn@outlook.com",
+              "timing": "/workbook/l010.json",
 							"title": "My thoughts do not mean anything."
 						},
 						{
 							"url": "l011/",
 							"audio": "/workbook/l011.mp3",
+              "timing": "/workbook/l011.json",
+              "timer": "mike.glenn@outlook.com",
 							"lesson": 11,
 							"title": "My meaningless thoughts are showing me a meaningless world."
 						},
 						{
 							"url": "l012/",
 							"audio": "/workbook/l012.mp3",
+              "timing": "/workbook/l012.json",
+              "timer": "mike.glenn@outlook.com",
 							"lesson": 12,
 							"title": "I am upset because I see a meaningless world."
 						},
 						{
 							"url": "l013/",
 							"audio": "/workbook/l013.mp3",
+              "timing": "/workbook/l013.json",
+              "timer": "mike.glenn@outlook.com",
 							"lesson": 13,
 							"title": "A meaningless world engenders fear."
 						},
 						{
 							"url": "l014/",
 							"audio": "/workbook/l014.mp3",
+              "timing": "/workbook/l014.json",
+              "timer": "mike.glenn@outlook.com",
 							"lesson": 14,
 							"title": "God did not create a meaningless world"
 						},
 						{
 							"url": "l015/",
 							"audio": "/workbook/l015.mp3",
+              "timing": "/workbook/l015.json",
+              "timer": "mike.glenn@outlook.com",
 							"lesson": 15,
 							"title": "My thoughts are images which I have made."
 						},
 						{
 							"url": "l016/",
 							"audio": "/workbook/l016.mp3",
+              "timing": "/workbook/l016.json",
+              "timer": "mike.glenn@outlook.com",
 							"lesson": 16,
 							"title": "I have no neutral thoughts."
 						},
 						{
 							"url": "l017/",
 							"audio": "/workbook/l017.mp3",
+              "timing": "/workbook/l017.json",
+              "timer": "mike.glenn@outlook.com",
 							"lesson": 17,
 							"title": "I see no neutral things."
 						},
 						{
 							"url": "l018/",
 							"audio": "/workbook/l018.mp3",
+              "timing": "/workbook/l018.json",
+              "timer": "mike.glenn@outlook.com",
 							"lesson": 18,
 							"title": "I am not alone in experiencing the effects of my seeing."
 						},
 						{
 							"url": "l019/",
 							"audio": "/workbook/l019.mp3",
+              "timing": "/workbook/l019.json",
+              "timer": "mike.glenn@outlook.com",
 							"lesson": 19,
 							"title": "I am not alone in experiencing the effects of my thoughts."
 						},
 						{
 							"url": "l020/",
 							"audio": "/workbook/l020.mp3",
+              "timing": "/workbook/l020.json",
+              "timer": "mike.glenn@outlook.com",
 							"lesson": 20,
 							"title": "I am determined to see."
 						},
 						{
 							"url": "l021/",
 							"audio": "/workbook/l021.mp3",
+              "timing": "/workbook/l021.json",
+              "timer": "mike.glenn@outlook.com",
 							"lesson": 21,
 							"title": "I am determined to see things differently."
 						},
 						{
 							"url": "l022/",
 							"audio": "/workbook/l022.mp3",
+              "timing": "/workbook/l022.json",
+              "timer": "mike.glenn@outlook.com",
 							"lesson": 22,
 							"title": "What I see is a form of vengeance."
 						},
 						{
 							"url": "l023/",
 							"audio": "/workbook/l023.mp3",
+              "timing": "/workbook/l023.json",
+              "timer": "mike.glenn@outlook.com",
 							"lesson": 23,
 							"title": "I can escape from the world I see by giving up attack thoughts."
 						},
 						{
 							"url": "l024/",
 							"audio": "/workbook/l024.mp3",
+              "timing": "/workbook/l024.json",
+              "timer": "mike.glenn@outlook.com",
 							"lesson": 24,
 							"title": "I do not perceive my own best interests."
 						},
 						{
 							"url": "l025/",
 							"audio": "/workbook/l025.mp3",
+              "timing": "/workbook/l025.json",
+              "timer": "mike.glenn@outlook.com",
 							"lesson": 25,
 							"title": "I do not know what anything is for."
 						},
 						{
 							"url": "l026/",
 							"audio": "/workbook/l026.mp3",
+              "timing": "/workbook/l026.json",
+              "timer": "mike.glenn@outlook.com",
 							"lesson": 26,
 							"title": "My attack thoughts are attacking my invulnerability."
 						},
 						{
 							"url": "l027/",
 							"audio": "/workbook/l027.mp3",
+              "timing": "/workbook/l027.json",
+              "timer": "mike.glenn@outlook.com",
 							"lesson": 27,
 							"title": "Above all else I want to see."
 						},
 						{
 							"url": "l028/",
 							"audio": "/workbook/l028.mp3",
+              "timing": "/workbook/l028.json",
+              "timer": "mike.glenn@outlook.com",
 							"lesson": 28,
 							"title": "Above all else I want to see things differently."
 						},
 						{
 							"url": "l029/",
 							"audio": "/workbook/l029.mp3",
+              "timing": "/workbook/l029.json",
+              "timer": "mike.glenn@outlook.com",
 							"lesson": 29,
 							"title": "God is in everything I see."
 						},
 						{
 							"url": "l030/",
 							"audio": "/workbook/l030.mp3",
+              "timing": "/workbook/l030.json",
+              "timer": "mike.glenn@outlook.com",
 							"lesson": 30,
 							"title": "God is in everything I see because God is in my mind."
 						},
 						{
 							"url": "l031/",
 							"audio": "/workbook/l031.mp3",
+							"timing": "/workbook/l031.json",
+              "timer": "mike.glenn@outlook.com",
 							"lesson": 31,
 							"title": "I am not the victim of the world I see."
 						},
 						{
 							"url": "l032/",
 							"audio": "/workbook/l032.mp3",
+							"timing": "/workbook/l032.json",
+              "timer": "mike.glenn@outlook.com",
 							"lesson": 32,
 							"title": "I have invented the world I see."
 						},
 						{
 							"url": "l033/",
 							"audio": "/workbook/l033.mp3",
+							"timing": "/workbook/l033.json",
+              "timer": "mike.glenn@outlook.com",
 							"lesson": 33,
 							"title": "There is another way of looking at the world."
 						},
 						{
 							"url": "l034/",
 							"audio": "/workbook/l034.mp3",
+							"timing": "/workbook/l034.json",
+              "timer": "mike.glenn@outlook.com",
 							"lesson": 34,
 							"title": "I could see peace instead of this."
 						},
 						{
 							"url": "l035/",
 							"audio": "/workbook/l035.mp3",
+							"timing": "/workbook/l035.json",
+              "timer": "mike.glenn@outlook.com",
 							"lesson": 35,
 							"title": "My mind is part of God’s. I am very holy."
 						},
 						{
 							"url": "l036/",
 							"audio": "/workbook/l036.mp3",
+							"timing": "/workbook/l036.json",
+              "timer": "mike.glenn@outlook.com",
 							"lesson": 36,
 							"title": "My holiness envelops everything I see."
 						},
 						{
 							"url": "l037/",
 							"audio": "/workbook/l037.mp3",
+							"timing": "/workbook/l037.json",
+              "timer": "mike.glenn@outlook.com",
 							"lesson": 37,
 							"title": "My holiness blesses the world."
 						},
 						{
 							"url": "l038/",
 							"audio": "/workbook/l038.mp3",
+							"timing": "/workbook/l038.json",
+              "timer": "mike.glenn@outlook.com",
 							"lesson": 38,
 							"title": "There is nothing my holiness cannot do."
 						},
 						{
 							"url": "l039/",
 							"audio": "/workbook/l039.mp3",
+							"timing": "/workbook/l039.json",
+              "timer": "mike.glenn@outlook.com",
 							"lesson": 39,
 							"title": "My holiness is my salvation."
 						},
 						{
 							"url": "l040/",
 							"audio": "/workbook/l040.mp3",
+							"timing": "/workbook/l040.json",
+              "timer": "mike.glenn@outlook.com",
 							"lesson": 40,
 							"title": "I am blessed as a Son of God."
 						},
 						{
 							"url": "l041/",
 							"audio": "/workbook/l041.mp3",
+							"timing": "/workbook/l041.json",
+              "timer": "mike.glenn@outlook.com",
 							"lesson": 41,
 							"title": "God goes with me wherever I go."
 						},
 						{
 							"url": "l042/",
 							"audio": "/workbook/l042.mp3",
+							"timing": "/workbook/l042.json",
+              "timer": "mike.glenn@outlook.com",
 							"lesson": 42,
 							"title": "God is my strength. Vision is His gift."
 						},
 						{
 							"url": "l043/",
 							"audio": "/workbook/l043.mp3",
+							"timing": "/workbook/l043.json",
+              "timer": "mike.glenn@outlook.com",
 							"lesson": 43,
 							"title": "God is my Source. I cannot see apart from Him."
 						},
 						{
 							"url": "l044/",
 							"audio": "/workbook/l044.mp3",
+							"timing": "/workbook/l044.json",
+              "timer": "mike.glenn@outlook.com",
 							"lesson": 44,
 							"title": "God is the Light in which I see."
 						},
 						{
 							"url": "l045/",
 							"audio": "/workbook/l045.mp3",
+							"timing": "/workbook/l045.json",
+              "timer": "mike.glenn@outlook.com",
 							"lesson": 45,
 							"title": "God is the Mind with which I think."
 						},
 						{
 							"url": "l046/",
 							"audio": "/workbook/l046.mp3",
+							"timing": "/workbook/l046.json",
+              "timer": "mike.glenn@outlook.com",
 							"lesson": 46,
 							"title": "God is the Love in which I forgive."
 						},
 						{
 							"url": "l047/",
 							"audio": "/workbook/l047.mp3",
+							"timing": "/workbook/l047.json",
+              "timer": "mike.glenn@outlook.com",
 							"lesson": 47,
 							"title": "God is the Strength in which I trust."
 						},
 						{
 							"url": "l048/",
 							"audio": "/workbook/l048.mp3",
+							"timing": "/workbook/l048.json",
+              "timer": "mike.glenn@outlook.com",
 							"lesson": 48,
 							"title": "There is nothing to fear."
 						},
 						{
 							"url": "l049/",
 							"audio": "/workbook/l049.mp3",
+							"timing": "/workbook/l049.json",
+              "timer": "mike.glenn@outlook.com",
 							"lesson": 49,
 							"title": "God’s Voice speaks to me all through the day."
 						},
 						{
 							"url": "l050/",
 							"audio": "/workbook/l050.mp3",
+							"timing": "/workbook/l050.json",
+              "timer": "mike.glenn@outlook.com",
 							"lesson": 50,
 							"title": "I am sustained by the Love of God."
 						}
@@ -614,120 +712,140 @@
 						{
 							"url": "l091/",
 							"audio": "/workbook/l091.mp3",
+              "timer": "msullivan2k@gmail.com",
 							"lesson": 91,
 							"title": "Miracles are seen in light."
 						},
 						{
 							"url": "l092/",
 							"audio": "/workbook/l092.mp3",
+              "timer": "msullivan2k@gmail.com",
 							"lesson": 92,
 							"title": "Miracles are seen in light, and light and strength are one."
 						},
 						{
 							"url": "l093/",
 							"audio": "/workbook/l093.mp3",
+              "timer": "msullivan2k@gmail.com",
 							"lesson": 93,
 							"title": "Light and joy and peace abide in me."
 						},
 						{
 							"url": "l094/",
 							"audio": "/workbook/l094.mp3",
+              "timer": "msullivan2k@gmail.com",
 							"lesson": 94,
 							"title": "I am as God created me."
 						},
 						{
 							"url": "l095/",
 							"audio": "/workbook/l095.mp3",
+              "timer": "msullivan2k@gmail.com",
 							"lesson": 95,
 							"title": "I am One Self, united with my Creator."
 						},
 						{
 							"url": "l096/",
 							"audio": "/workbook/l096.mp3",
+              "timer": "msullivan2k@gmail.com",
 							"lesson": 96,
 							"title": "Salvation comes from my One Self."
 						},
 						{
 							"url": "l097/",
 							"audio": "/workbook/l097.mp3",
+              "timer": "msullivan2k@gmail.com",
 							"lesson": 97,
 							"title": "I am Spirit."
 						},
 						{
 							"url": "l098/",
 							"audio": "/workbook/l098.mp3",
+              "timer": "msullivan2k@gmail.com",
 							"lesson": 98,
 							"title": "I will accept my part in God’s plan for salvation."
 						},
 						{
 							"url": "l099/",
 							"audio": "/workbook/l099.mp3",
+              "timer": "msullivan2k@gmail.com",
 							"lesson": 99,
 							"title": "Salvation is my only function here."
 						},
 						{
 							"url": "l100/",
 							"audio": "/workbook/l100.mp3",
+              "timer": "msullivan2k@gmail.com",
 							"lesson": 100,
 							"title": "My part is essential to God’s plan for salvation."
 						},
 						{
 							"url": "l101/",
 							"audio": "/workbook/l101.mp3",
+              "timer": "msullivan2k@gmail.com",
 							"lesson": 101,
 							"title": "God’s Will for me is perfect happiness."
 						},
 						{
 							"url": "l102/",
 							"audio": "/workbook/l102.mp3",
+              "timer": "msullivan2k@gmail.com",
 							"lesson": 102,
 							"title": "I share God’s Will for happiness for me."
 						},
 						{
 							"url": "l103/",
 							"audio": "/workbook/l103.mp3",
+              "timer": "msullivan2k@gmail.com",
 							"lesson": 103,
 							"title": "God, being Love, is also happiness."
 						},
 						{
 							"url": "l104/",
 							"audio": "/workbook/l104.mp3",
+              "timer": "msullivan2k@gmail.com",
 							"lesson": 104,
 							"title": "I seek but what belongs to me in truth."
 						},
 						{
 							"url": "l105/",
 							"audio": "/workbook/l105.mp3",
+              "timer": "msullivan2k@gmail.com",
 							"lesson": 105,
 							"title": "God’s peace and joy are mine."
 						},
 						{
 							"url": "l106/",
 							"audio": "/workbook/l106.mp3",
+              "timer": "msullivan2k@gmail.com",
 							"lesson": 106,
 							"title": "Let me be still and listen to the truth."
 						},
 						{
 							"url": "l107/",
 							"audio": "/workbook/l107.mp3",
+              "timer": "msullivan2k@gmail.com",
 							"lesson": 107,
 							"title": "Truth will correct all errors in my mind."
 						},
 						{
 							"url": "l108/",
 							"audio": "/workbook/l108.mp3",
+              "timer": "msullivan2k@gmail.com",
 							"lesson": 108,
 							"title": "To give and to receive are one in truth."
 						},
 						{
 							"url": "l109/",
 							"audio": "/workbook/l109.mp3",
+              "timer": "msullivan2k@gmail.com",
 							"lesson": 109,
 							"title": "I rest in God."
 						},
 						{
 							"url": "l110/",
 							"audio": "/workbook/l110.mp3",
+              "timer": "msullivan2k@gmail.com",
 							"lesson": 110,
 							"title": "I am as God created me."
 						}
@@ -741,65 +859,76 @@
 						{
 							"url": "review3/",
 							"audio": "/workbook/review3.mp3",
+              "timer": "msullivan2k@gmail.com",
 							"title": "Introduction"
 						},
 						{
 							"url": "l111/",
 							"audio": "/workbook/l111.mp3",
+              "timer": "msullivan2k@gmail.com",
 							"lesson": 111,
 							"title": "Review 91 - 92"
 						},
 						{
 							"url": "l112/",
 							"audio": "/workbook/l112.mp3",
+              "timer": "msullivan2k@gmail.com",
 							"lesson": 112,
 							"title": "Review 93 - 94"
 						},
 						{
 							"url": "l113/",
 							"audio": "/workbook/l113.mp3",
+              "timer": "msullivan2k@gmail.com",
 							"lesson": 113,
 							"title": "Review 95 - 96"
 						},
 						{
 							"url": "l114/",
 							"audio": "/workbook/l114.mp3",
+              "timer": "msullivan2k@gmail.com",
 							"lesson": 114,
 							"title": "Review 97 - 98"
 						},
 						{
 							"url": "l115/",
 							"audio": "/workbook/l115.mp3",
+              "timer": "msullivan2k@gmail.com",
 							"lesson": 115,
 							"title": "Review 99 - 100"
 						},
 						{
 							"url": "l116/",
 							"audio": "/workbook/l116.mp3",
+              "timer": "msullivan2k@gmail.com",
 							"lesson": 116,
 							"title": "Review 101 - 102"
 						},
 						{
 							"url": "l117/",
 							"audio": "/workbook/l117.mp3",
+              "timer": "msullivan2k@gmail.com",
 							"lesson": 117,
 							"title": "Review 103 - 104"
 						},
 						{
 							"url": "l118/",
 							"audio": "/workbook/l118.mp3",
+              "timer": "msullivan2k@gmail.com",
 							"lesson": 118,
 							"title": "Review 105 - 106"
 						},
 						{
 							"url": "l119/",
 							"audio": "/workbook/l119.mp3",
+              "timer": "msullivan2k@gmail.com",
 							"lesson": 119,
 							"title": "Review 107 - 108"
 						},
 						{
 							"url": "l120/",
 							"audio": "/workbook/l120.mp3",
+              "timer": "msullivan2k@gmail.com",
 							"lesson": 120,
 							"title": "Review 109 - 110"
 						}
@@ -1012,120 +1141,160 @@
 						{
 							"url": "l151/",
 							"audio": "/workbook/l151.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/l151.json",
 							"lesson": 151,
 							"title": "All things are echoes of the Voice of God."
 						},
 						{
 							"url": "l152/",
 							"audio": "/workbook/l152.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/l152.json",
 							"lesson": 152,
 							"title": "The power of decision is my own."
 						},
 						{
 							"url": "l153/",
 							"audio": "/workbook/l153.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/l153.json",
 							"lesson": 153,
 							"title": "In my defenselessness my safety lies."
 						},
 						{
 							"url": "l154/",
 							"audio": "/workbook/l154.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/l154.json",
 							"lesson": 154,
 							"title": "I am among the ministers of God."
 						},
 						{
 							"url": "l155/",
 							"audio": "/workbook/l155.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/l155.json",
 							"lesson": 155,
 							"title": "I will step back and let Him lead the way."
 						},
 						{
 							"url": "l156/",
 							"audio": "/workbook/l156.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/l156.json",
 							"lesson": 156,
 							"title": "I walk with God in perfect holiness."
 						},
 						{
 							"url": "l157/",
 							"audio": "/workbook/l157.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/l157.json",
 							"lesson": 157,
 							"title": "Into His Presence would I enter now."
 						},
 						{
 							"url": "l158/",
 							"audio": "/workbook/l158.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/l158.json",
 							"lesson": 158,
 							"title": "Today I learn to give as I receive."
 						},
 						{
 							"url": "l159/",
 							"audio": "/workbook/l159.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/l159.json",
 							"lesson": 159,
 							"title": "I give the miracles I have received."
 						},
 						{
 							"url": "l160/",
 							"audio": "/workbook/l160.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/l160.json",
 							"lesson": 160,
 							"title": "I am at home. Fear is the stranger here."
 						},
 						{
 							"url": "l161/",
 							"audio": "/workbook/l161.mp3",
+              "timing": "/workbook/l161.json",
+              "timer": "onemillionchrists@gmail.com",
 							"lesson": 161,
 							"title": "Give me your blessing, holy Son of God."
 						},
 						{
 							"url": "l162/",
 							"audio": "/workbook/l162.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/l162.json",
 							"lesson": 162,
 							"title": "I am as God created me."
 						},
 						{
 							"url": "l163/",
 							"audio": "/workbook/l163.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/l163.json",
 							"lesson": 163,
 							"title": "There is no death. The Son of God is free."
 						},
 						{
 							"url": "l164/",
 							"audio": "/workbook/l164.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/l164.json",
 							"lesson": 164,
 							"title": "Now are we One with Him Who is our Source."
 						},
 						{
 							"url": "l165/",
 							"audio": "/workbook/l165.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/l165.json",
 							"lesson": 165,
 							"title": "Let not my mind deny the Thought of God."
 						},
 						{
 							"url": "l166/",
 							"audio": "/workbook/l166.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/l166.json",
 							"lesson": 166,
 							"title": "I am entrusted with the gifts of God."
 						},
 						{
 							"url": "l167/",
 							"audio": "/workbook/l167.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/l167.json",
 							"lesson": 167,
 							"title": "There is one life, and that I share with God."
 						},
 						{
 							"url": "l168/",
 							"audio": "/workbook/l168.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/l168.json",
 							"lesson": 168,
 							"title": "Your grace is given me. I claim it now."
 						},
 						{
 							"url": "l169/",
 							"audio": "/workbook/l169.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/l169.json",
 							"lesson": 169,
 							"title": "By grace I live. By grace I am released."
 						},
 						{
 							"url": "l170/",
 							"audio": "/workbook/l170.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/l170.json",
 							"lesson": 170,
 							"title": "There is no cruelty in God and none in me."
 						}
@@ -1139,65 +1308,87 @@
 						{
 							"url": "review5/",
 							"audio": "/workbook/review5.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/review5.json",
 							"title": "Introduction"
 						},
 						{
 							"url": "l171/",
 							"audio": "/workbook/l171.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/l171.json",
 							"lesson": 171,
 							"title": "Review 151 - 152"
 						},
 						{
 							"url": "l172/",
 							"audio": "/workbook/l172.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/l172.json",
 							"lesson": 172,
 							"title": "Review 153 - 154"
 						},
 						{
 							"url": "l173/",
 							"audio": "/workbook/l173.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/l173.json",
 							"lesson": 173,
 							"title": "Review 155 - 156"
 						},
 						{
 							"url": "l174/",
 							"audio": "/workbook/l174.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/l174.json",
 							"lesson": 174,
 							"title": "Review 157 - 158"
 						},
 						{
 							"url": "l175/",
 							"audio": "/workbook/l175.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/l175.json",
 							"lesson": 175,
 							"title": "Review 159 - 160"
 						},
 						{
 							"url": "l176/",
 							"audio": "/workbook/l176.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/l176.json",
 							"lesson": 176,
 							"title": "Review 161 - 162"
 						},
 						{
 							"url": "l177/",
 							"audio": "/workbook/l177.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/l177.json",
 							"lesson": 177,
 							"title": "Review 163 - 164"
 						},
 						{
 							"url": "l178/",
 							"audio": "/workbook/l178.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/l178.json",
 							"lesson": 178,
 							"title": "Review 165 - 166"
 						},
 						{
 							"url": "l179/",
 							"audio": "/workbook/l179.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/l179.json",
 							"lesson": 179,
 							"title": "Review 167 - 168"
 						},
 						{
 							"url": "l180/",
 							"audio": "/workbook/l180.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/l180.json",
 							"lesson": 180,
 							"title": "Review 169 - 170"
 						}
@@ -1211,125 +1402,167 @@
 						{
 							"url": "intro181/",
 							"audio": "/workbook/intro181.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/intro181.json",
 							"title": "Introduction"
 						},
 						{
 							"url": "l181/",
 							"audio": "/workbook/l181.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/l181.json",
 							"lesson": 181,
 							"title": "I trust my brothers, who are one with me."
 						},
 						{
 							"url": "l182/",
 							"audio": "/workbook/l182.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/l182.json",
 							"lesson": 182,
 							"title": "I will be still an instant and go home."
 						},
 						{
 							"url": "l183/",
 							"audio": "/workbook/l183.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/l183.json",
 							"lesson": 183,
 							"title": "I call upon God’s Name and on my own."
 						},
 						{
 							"url": "l184/",
 							"audio": "/workbook/l184.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/l184.json",
 							"lesson": 184,
 							"title": "The Name of God is my inheritance."
 						},
 						{
 							"url": "l185/",
 							"audio": "/workbook/l185.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/l185.json",
 							"lesson": 185,
 							"title": "I want the peace of God."
 						},
 						{
 							"url": "l186/",
 							"audio": "/workbook/l186.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/l186.json",
 							"lesson": 186,
 							"title": "Salvation of the world depends on me."
 						},
 						{
 							"url": "l187/",
 							"audio": "/workbook/l187.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/l187.json",
 							"lesson": 187,
 							"title": "I bless the world because I bless myself."
 						},
 						{
 							"url": "l188/",
 							"audio": "/workbook/l188.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/l188.json",
 							"lesson": 188,
 							"title": "The peace of God is shining in me now."
 						},
 						{
 							"url": "l189/",
 							"audio": "/workbook/l189.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/l189.json",
 							"lesson": 189,
 							"title": "I feel the Love of God within me now."
 						},
 						{
 							"url": "l190/",
 							"audio": "/workbook/l190.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/l190.json",
 							"lesson": 190,
 							"title": "I choose the joy of God instead of pain."
 						},
 						{
 							"url": "l191/",
 							"audio": "/workbook/l191.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/l191.json",
 							"lesson": 191,
 							"title": "I am the holy Son of God Himself."
 						},
 						{
 							"url": "l192/",
 							"audio": "/workbook/l192.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/l192.json",
 							"lesson": 192,
 							"title": "I have a function God would have me fill."
 						},
 						{
 							"url": "l193/",
 							"audio": "/workbook/l193.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/l193.json",
 							"lesson": 193,
 							"title": "All things are lessons God would have me learn."
 						},
 						{
 							"url": "l194/",
 							"audio": "/workbook/l194.mp3",
+              "timing": "/workbook/l194.json",
+              "timer": "onemillionchrists@gmail.com",
 							"lesson": 194,
 							"title": "I place the future in the Hands of God."
 						},
 						{
 							"url": "l195/",
 							"audio": "/workbook/l195.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/l195.json",
 							"lesson": 195,
 							"title": "Love is the way I walk in gratitude."
 						},
 						{
 							"url": "l196/",
 							"audio": "/workbook/l196.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/l196.json",
 							"lesson": 196,
 							"title": "It can be but myself I crucify."
 						},
 						{
 							"url": "l197/",
 							"audio": "/workbook/l197.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/l197.json",
 							"lesson": 197,
 							"title": "It can be but my gratitude I earn."
 						},
 						{
 							"url": "l198/",
 							"audio": "/workbook/l198.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/l198.json",
 							"lesson": 198,
 							"title": "Only my condemnation injures me."
 						},
 						{
 							"url": "l199/",
 							"audio": "/workbook/l199.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/l199.json",
 							"lesson": 199,
 							"title": "I am not a body. I am free."
 						},
 						{
 							"url": "l200/",
 							"audio": "/workbook/l200.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/l200.json",
 							"lesson": 200,
 							"title": "There is no peace except the peace of God."
 						}
@@ -1343,125 +1576,168 @@
 						{
 							"url": "review6/",
 							"audio": "/workbook/review6.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/review6.json",
 							"title": "Introduction"
 						},
 						{
 							"url": "l201/",
 							"audio": "/workbook/l201.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/l201.json",
 							"lesson": 201,
 							"title": "Review 181"
 						},
 						{
 							"url": "l202/",
 							"audio": "/workbook/l202.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/l202.json",
 							"lesson": 202,
 							"title": "Review 182"
 						},
 						{
 							"url": "l203/",
 							"audio": "/workbook/l203.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/l203.json",
 							"lesson": 203,
 							"title": "Review 183"
 						},
 						{
 							"url": "l204/",
 							"audio": "/workbook/l204.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/l204.json",
 							"lesson": 204,
 							"title": "Review 184"
 						},
 						{
 							"url": "l205/",
 							"audio": "/workbook/l205.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/l205.json",
 							"lesson": 205,
 							"title": "Review 185"
 						},
 						{
 							"url": "l206/",
 							"audio": "/workbook/l206.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/l206.json",
 							"lesson": 206,
 							"title": "Review 186"
 						},
 						{
 							"url": "l207/",
 							"audio": "/workbook/l207.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/l207.json",
 							"lesson": 207,
 							"title": "Review 187"
 						},
 						{
 							"url": "l208/",
 							"audio": "/workbook/l208.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/l208.json",
+              "note": "Last paragraph not spoken in audio",
 							"lesson": 208,
 							"title": "Review 188"
 						},
 						{
 							"url": "l209/",
 							"audio": "/workbook/l209.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/l209.json",
 							"lesson": 209,
 							"title": "Review 189"
 						},
 						{
 							"url": "l210/",
 							"audio": "/workbook/l210.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/l210.json",
 							"lesson": 210,
 							"title": "Review 190"
 						},
 						{
 							"url": "l211/",
 							"audio": "/workbook/l211.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/l211.json",
 							"lesson": 211,
 							"title": "Review 191"
 						},
 						{
 							"url": "l212/",
 							"audio": "/workbook/l212.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/l212.json",
 							"lesson": 212,
 							"title": "Review 192"
 						},
 						{
 							"url": "l213/",
 							"audio": "/workbook/l213.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/l213.json",
 							"lesson": 213,
 							"title": "Review 193"
 						},
 						{
 							"url": "l214/",
 							"audio": "/workbook/l214.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/l214.json",
 							"lesson": 214,
 							"title": "Review 194"
 						},
 						{
 							"url": "l215/",
 							"audio": "/workbook/l215.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/l215.json",
 							"lesson": 215,
 							"title": "Review 195"
 						},
 						{
 							"url": "l216/",
 							"audio": "/workbook/l216.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/l216.json",
 							"lesson": 216,
 							"title": "Review 196"
 						},
 						{
 							"url": "l217/",
 							"audio": "/workbook/l217.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/l217.json",
 							"lesson": 217,
 							"title": "Review 197"
 						},
 						{
 							"url": "l218/",
 							"audio": "/workbook/l218.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/l218.json",
 							"lesson": 218,
 							"title": "Review 198"
 						},
 						{
 							"url": "l219/",
 							"audio": "/workbook/l219.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/l219.json",
 							"lesson": 219,
 							"title": "Review 199"
 						},
 						{
 							"url": "l220/",
 							"audio": "/workbook/l220.mp3",
+              "timer": "onemillionchrists@gmail.com",
+              "timing": "/workbook/l220.json",
 							"lesson": 220,
 							"title": "Review 200"
 						}

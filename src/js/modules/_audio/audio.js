@@ -6,8 +6,11 @@ const uiPlayerToggle = ".audio-player-toggle";
 const uiAudioPlayerToggle = ".audio-player-wrapper";
 
 //show menu option that toggle's display of the audio player
-function showAudioPlayerMenuOption() {
+function showAudioPlayerMenuOption(hasTiming) {
   $(".audio-player-toggle.hide").removeClass("hide");
+  if (!hasTiming) {
+    $(".audio-player-toggle > span > i").addClass("orange");
+  }
 }
 
 //set url of mp3 file
@@ -41,7 +44,7 @@ export default {
     //add audio url to audio player toggle
     if (info.audio) {
       setAudioPlayerSource(`${info.audioBase}${info.audio}`);
-      showAudioPlayerMenuOption();
+      showAudioPlayerMenuOption(info.timing);
 
       //setup listener for audio-player-toggle
       createAudioPlayerToggleListener();
