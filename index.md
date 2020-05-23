@@ -36,12 +36,6 @@ Choose “Get Acquainted” to discover more about how this journey of A
 Course in Miracles began, the path of its evolution, its various
 formats, and how you can obtain a copy.
 
-<h2 class="ui header">Help Wanted</h2>
-<i class="green bullhorn icon"></i> We need help collecting timing data to
-synchronize audio data with textual content. It's easy, anybody can do it
-from anywhere and you'll get to sit with Maz reading from the Course. [Click
-here to learn more.](/t/acimoe/acq/timers)
-
 <div id="page-contents">
   <div class="ui three cards">
     <div class="card">

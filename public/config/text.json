@@ -2844,6 +2844,7 @@
 				{
 					"url": "chap2001/",
 					"audio": "/text/20/chap2001.mp3",
+					"timing": "/text/20/chap2001.json",
           "timer": "onemillionchrists@gmail.com",
 					"title": "Tx.20.I. Introduction",
 					"nwffacim": [
@@ -3184,60 +3185,70 @@
 				{
 					"url": "chap2501/",
 					"audio": "/text/25/chap2501.mp3",
+					"timing": "/text/25/chap2501.json",
           "timer": "onemillionchrists@gmail.com",
 					"title": "Tx.25.I. Introduction"
 				},
 				{
 					"url": "chap2502/",
 					"audio": "/text/25/chap2502.mp3",
+					"timing": "/text/25/chap2502.json",
           "timer": "onemillionchrists@gmail.com",
 					"title": "Tx.25.II. The Appointed Task"
 				},
 				{
 					"url": "chap2503/",
 					"audio": "/text/25/chap2503.mp3",
+					"timing": "/text/25/chap2503.json",
           "timer": "onemillionchrists@gmail.com",
 					"title": "Tx.25.III. The Savior from the Dark"
 				},
 				{
 					"url": "chap2504/",
 					"audio": "/text/25/chap2504.mp3",
+					"timing": "/text/25/chap2504.json",
           "timer": "onemillionchrists@gmail.com",
 					"title": "Tx.25.IV. The Fundamental Law of Perception"
 				},
 				{
 					"url": "chap2505/",
 					"audio": "/text/25/chap2505.mp3",
+					"timing": "/text/25/chap2505.json",
           "timer": "onemillionchrists@gmail.com",
 					"title": "Tx.25.V. The Joining of Minds"
 				},
 				{
 					"url": "chap2506/",
 					"audio": "/text/25/chap2506.mp3",
+					"timing": "/text/25/chap2506.json",
           "timer": "onemillionchrists@gmail.com",
 					"title": "Tx.25.VI. The State of Sinlessness"
 				},
 				{
 					"url": "chap2507/",
 					"audio": "/text/25/chap2507.mp3",
+					"timing": "/text/25/chap2507.json",
           "timer": "onemillionchrists@gmail.com",
 					"title": "Tx.25.VII. The Special Function"
 				},
 				{
 					"url": "chap2508/",
 					"audio": "/text/25/chap2508.mp3",
+					"timing": "/text/25/chap2508.json",
           "timer": "onemillionchrists@gmail.com",
 					"title": "Tx.25.VIII. Commuting the Sentence"
 				},
 				{
 					"url": "chap2509/",
 					"audio": "/text/25/chap2509.mp3",
+					"timing": "/text/25/chap2509.json",
           "timer": "onemillionchrists@gmail.com",
 					"title": "Tx.25.IX. The Principle of Salvation"
 				},
 				{
 					"url": "chap2510/",
 					"audio": "/text/25/chap2510.mp3",
+					"timing": "/text/25/chap2510.json",
           "timer": "onemillionchrists@gmail.com",
 					"title": "Tx.25.X. The Justice of Heaven"
 				}
@@ -3251,6 +3262,7 @@
 				{
 					"url": "chap2601/",
 					"audio": "/text/26/chap2601.mp3",
+					"timing": "/text/26/chap2601.json",
           "timer": "msullivan2k@gmail.com",
 					"title": "Tx.26.I. Introduction"
 				},
@@ -3334,36 +3346,42 @@
 				{
 					"url": "chap2701/",
 					"audio": "/text/27/chap2701.mp3",
+					"timing": "/text/27/chap2701.json",
           "timer": "ancientrussian@gmail.com",
 					"title": "Tx.27.I. Introduction"
 				},
 				{
 					"url": "chap2702/",
 					"audio": "/text/27/chap2702.mp3",
+					"timing": "/text/27/chap2702.json",
           "timer": "ancientrussian@gmail.com",
 					"title": "Tx.27.II. The Picture of Crucifixion"
 				},
 				{
 					"url": "chap2703/",
 					"audio": "/text/27/chap2703.mp3",
+					"timing": "/text/27/chap2703.json",
           "timer": "ancientrussian@gmail.com",
 					"title": "Tx.27.III. The Fear of Healing"
 				},
 				{
 					"url": "chap2704/",
 					"audio": "/text/27/chap2704.mp3",
+					"timing": "/text/27/chap2704.json",
           "timer": "ancientrussian@gmail.com",
 					"title": "Tx.27.IV. The Symbol of the Impossible"
 				},
 				{
 					"url": "chap2705/",
 					"audio": "/text/27/chap2705.mp3",
+					"timing": "/text/27/chap2705.json",
           "timer": "ancientrussian@gmail.com",
 					"title": "Tx.27.V. The Quiet Answer"
 				},
 				{
 					"url": "chap2706/",
 					"audio": "/text/27/chap2706.mp3",
+					"timing": "/text/27/chap2706.json",
           "timer": "ancientrussian@gmail.com",
 					"title": "Tx.27.VI. The Healing Example",
 					"nwffacim": [
@@ -3384,18 +3402,21 @@
 				{
 					"url": "chap2707/",
 					"audio": "/text/27/chap2707.mp3",
+					"timing": "/text/27/chap2707.json",
           "timer": "ancientrussian@gmail.com",
 					"title": "Tx.27.VII. The Purpose of Pain"
 				},
 				{
 					"url": "chap2708/",
 					"audio": "/text/27/chap2708.mp3",
+					"timing": "/text/27/chap2708.json",
           "timer": "ancientrussian@gmail.com",
 					"title": "Tx.27.VIII. The Illusion of Suffering"
 				},
 				{
 					"url": "chap2709/",
 					"audio": "/text/27/chap2709.mp3",
+					"timing": "/text/27/chap2709.json",
           "timer": "ancientrussian@gmail.com",
 					"title": "Tx.27.IX. The 'Hero' of the Dream"
 				}
@@ -3549,6 +3570,7 @@
 				{
 					"url": "chap3001/",
 					"audio": "/text/30/chap3001.mp3",
+					"timing": "/text/30/chap3001.json",
           "timer": "ancientrussian@gmail.com",
 					"title": "Tx.30.I. Introduction"
 				},
