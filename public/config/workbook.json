@@ -653,6 +653,7 @@
 						{
 							"url": "l076/",
 							"audio": "/workbook/l076.mp3",
+							"timing": "/workbook/l076.json",
               "timer": "mike.glenn@outlook.com",
 							"lesson": 76,
 							"title": "I am under no laws but God’s."
@@ -660,6 +661,7 @@
 						{
 							"url": "l077/",
 							"audio": "/workbook/l077.mp3",
+							"timing": "/workbook/l077.json",
               "timer": "mike.glenn@outlook.com",
 							"lesson": 77,
 							"title": "I am entitled to miracles."
@@ -667,6 +669,7 @@
 						{
 							"url": "l078/",
 							"audio": "/workbook/l078.mp3",
+							"timing": "/workbook/l078.json",
               "timer": "mike.glenn@outlook.com",
 							"lesson": 78,
 							"title": "Let miracles replace all grievances."
@@ -674,6 +677,7 @@
 						{
 							"url": "l079/",
 							"audio": "/workbook/l079.mp3",
+							"timing": "/workbook/l079.json",
               "timer": "mike.glenn@outlook.com",
 							"lesson": 79,
 							"title": "Let me recognize the problem so it can be solved."
@@ -681,6 +685,7 @@
 						{
 							"url": "l080/",
 							"audio": "/workbook/l080.mp3",
+							"timing": "/workbook/l080.json",
               "timer": "mike.glenn@outlook.com",
 							"lesson": 80,
 							"title": "Let me recognize my problems have been solved."
