@@ -101,9 +101,15 @@ function makeWorkbookContents(contents) {
 
 /*
 * If there is timing or a timer defined for a toc item
-* set the class accordingly
+* set the class accordingly. A clock icon is displayed
+* info.timing, a user icon when info.timer and no icon
+* otherwise.
+*
+* June 1, 2020: disable display of icons, all timing is
+* complete so we don't need them anymore.
 */
 function getTimerClass(info) {
+  return "";
   if (info.timing) {
     return " __timing";
   }

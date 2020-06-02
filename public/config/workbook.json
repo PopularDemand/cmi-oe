@@ -700,12 +700,14 @@
 						{
 							"url": "review2/",
 							"audio": "/workbook/review2.mp3",
+							"timing": "/workbook/review2.json",
               "timer": "mike.glenn@outlook.com",
 							"title": "Introduction"
 						},
 						{
 							"url": "l081/",
 							"audio": "/workbook/l081.mp3",
+							"timing": "/workbook/l081.json",
               "timer": "mike.glenn@outlook.com",
 							"lesson": 81,
 							"title": "Review 61 - 62"
@@ -713,6 +715,7 @@
 						{
 							"url": "l082/",
 							"audio": "/workbook/l082.mp3",
+							"timing": "/workbook/l082.json",
               "timer": "mike.glenn@outlook.com",
 							"lesson": 82,
 							"title": "Review 63 - 64"
@@ -720,6 +723,7 @@
 						{
 							"url": "l083/",
 							"audio": "/workbook/l083.mp3",
+							"timing": "/workbook/l083.json",
               "timer": "mike.glenn@outlook.com",
 							"lesson": 83,
 							"title": "Review 65 - 66"
@@ -727,6 +731,7 @@
 						{
 							"url": "l084/",
 							"audio": "/workbook/l084.mp3",
+							"timing": "/workbook/l084.json",
               "timer": "mike.glenn@outlook.com",
 							"lesson": 84,
 							"title": "Review 67 - 68"
@@ -734,6 +739,7 @@
 						{
 							"url": "l085/",
 							"audio": "/workbook/l085.mp3",
+							"timing": "/workbook/l085.json",
               "timer": "mike.glenn@outlook.com",
 							"lesson": 85,
 							"title": "Review 69 - 70"
@@ -741,6 +747,7 @@
 						{
 							"url": "l086/",
 							"audio": "/workbook/l086.mp3",
+							"timing": "/workbook/l086.json",
               "timer": "mike.glenn@outlook.com",
 							"lesson": 86,
 							"title": "Review 71 - 72"
@@ -748,6 +755,7 @@
 						{
 							"url": "l087/",
 							"audio": "/workbook/l087.mp3",
+							"timing": "/workbook/l087.json",
               "timer": "mike.glenn@outlook.com",
 							"lesson": 87,
 							"title": "Review 73 - 74"
@@ -755,6 +763,7 @@
 						{
 							"url": "l088/",
 							"audio": "/workbook/l088.mp3",
+							"timing": "/workbook/l088.json",
               "timer": "mike.glenn@outlook.com",
 							"lesson": 88,
 							"title": "Review 75 - 76"
@@ -762,6 +771,7 @@
 						{
 							"url": "l089/",
 							"audio": "/workbook/l089.mp3",
+							"timing": "/workbook/l089.json",
               "timer": "mike.glenn@outlook.com",
 							"lesson": 89,
 							"title": "Review 77 - 78"
@@ -769,6 +779,7 @@
 						{
 							"url": "l090/",
 							"audio": "/workbook/l090.mp3",
+							"timing": "/workbook/l090.json",
               "timer": "mike.glenn@outlook.com",
 							"lesson": 90,
 							"title": "Review 79 - 80"
@@ -937,6 +948,7 @@
 							"url": "l110/",
 							"audio": "/workbook/l110.mp3",
               "timer": "msullivan2k@gmail.com",
+							"timing": "/workbook/l110.json",
 							"lesson": 110,
 							"title": "I am as God created me."
 						}
