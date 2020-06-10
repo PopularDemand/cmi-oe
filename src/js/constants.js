@@ -6,7 +6,9 @@ const keyInfo = require("./modules/_config/key");
 import {getPageInfo} from "./modules/_config/config";
 
 export default {
-  sid: "OE",
+  sid: "oe",
+  lang: "en",
+  env: "integration",
   getPageInfo: getPageInfo,            //list
   keyInfo: keyInfo,                    //list, bmnet
   bm_modal_key: "bm.oe.modal",         //list

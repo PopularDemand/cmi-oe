@@ -185,7 +185,6 @@ function getTime(idx) {
     if (dataPoint.note) {
       notify.info(dataPoint.note);
     }
-    //console.log("getTime(%s)", idx);
     return timingData[idx].seconds;
   }
 }
