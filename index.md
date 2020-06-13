@@ -14,7 +14,7 @@ footer:
   donate: false
   id: "CMI-OE"
   source: "ACIM"
-  repohref: "https://github.com/rmercer33/cmi-oe"
+  repohref: "https://github.com/Christ-Mind-Teachings/cmi-oe"
 ---
 
 ## <em>A Course in Miracles</em> Original Edition!
