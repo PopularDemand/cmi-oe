@@ -76,10 +76,18 @@
   <script src="/public/vendor/jquery/jquery.min.js"></script>
   <script src="/public/vendor/semantic/semantic.min.js"></script>
 
-  <script src="/t/acimoe/public/js/vendors~page~transcript.js"></script>
-  <script src="/t/acimoe/public/js/vendors~transcript.js"></script>
-  <script src="/t/acimoe/public/js/page~transcript.js"></script>
-  <script src="/t/acimoe/public/js/transcript.js"></script>
+  {% if jekyll.environment == "production" %}
+    <!-- OE transcript Webpack production -->
+    <script src="/t/acimoe/public/js/vendors~page~transcript.js"></script>
+    <script src="/t/acimoe/public/js/vendors~transcript.js"></script>
+    <script src="/t/acimoe/public/js/transcript.js"></script>
+  {% else %}
+    <!-- OE transcript Webpack development -->
+    <script src="/t/acimoe/public/js/vendors~page~transcript.js"></script>
+    <script src="/t/acimoe/public/js/vendors~transcript.js"></script>
+    <script src="/t/acimoe/public/js/page~transcript.js"></script>
+    <script src="/t/acimoe/public/js/transcript.js"></script>
+  {% endif %}
 
   {% if page.video == true %}
     <script>$(".ui.embed").embed();</script>

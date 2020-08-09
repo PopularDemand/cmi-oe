@@ -32,19 +32,46 @@ sequence of events you have discovered that there is actually an edition
 that pre-dates the well-known blue book. The ACIM Original Edition,
 published by Course in Miracles Society [CIMS], is that early edition.
 
-Choose “Get Acquainted” to discover more about how this journey of A
-Course in Miracles began, the path of its evolution, its various
-formats, and how you can obtain a copy.
-
 <div id="page-contents">
-  <div class="ui three cards">
-    <div class="card">
-      <a href="#" data-book="acq" class="toc-modal-open image" data-tooltip="Click to view the Getting Acquainted table of contents." data-position="top center">
-        <img src="/t/acimoe/public/img/acim/acq-big.jpg">
-      </a>
-      <div class="content">
-        <div class="description">
-          Get acquainted with the ACIM Original Edition.
+  <div class="ui equal width grid source-acq-section">
+    <div class="five wide column">
+      <div class="ui card">
+        <a href="#" data-book="acq" class="toc-modal-open image" data-tooltip="Click to view the Getting Acquainted table of contents." data-position="top center">
+          <img src="/t/acimoe/public/img/acim/acq-big.jpg">
+        </a>
+        <div class="content">
+          <div class="description">
+            Get acquainted with the ACIM Original Edition.
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="column source-features">
+      <div class="ui top attached tabular menu">
+        <a class="active item" data-tab="first">News</a>
+        <a class="item" data-tab="second">Quotes</a>
+      </div>
+      <div class="ui bottom attached active tab segment" data-tab="first">
+        <div class="box">
+          <p>
+            Choose “Get Acquainted” to discover more about how this journey of A
+            Course in Miracles began, the path of its evolution, its various
+            formats, and how you can obtain a copy.
+          </p>
+        </div>
+      </div>
+      <div class="ui bottom attached tab segment" data-tab="second">
+        <div class="ui form">
+          <div class="fields">
+            <div class="field">
+              <label>Get Inspired</label>
+              <button id="show-quote-button" class="ui primary button">
+                <i class="quote left icon"></i>
+                Read A Quote
+              </button> 
+            </div>
+            <div id="user-quote-select" class="field"></div>
+          </div>
         </div>
       </div>
     </div>

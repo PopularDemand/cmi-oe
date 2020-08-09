@@ -6,6 +6,9 @@ const keyInfo = require("./modules/_config/key");
 import {getPageInfo} from "./modules/_config/config";
 
 export default {
+  sourceId: 15,
+  quoteManagerId: "05399539cca9ac38db6db36f5c770ff1",
+  quoteManagerName: "CMI",
   sid: "oe",
   lang: "en",
   env: "integration",
