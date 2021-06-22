@@ -1,10 +1,10 @@
 /* eslint no-console: off */
 
 //common modules
-import {showParagraph} from "www/modules/_util/url";
-import auth from "www/modules/_user/netlify";
-import fb from "www/modules/_util/facebook";
-import {initTranscriptPage} from "www/modules/_page/startup";
+import {showParagraph} from "../../cmi-www/modules/_util/url";
+import auth from "../../cmi-www/modules/_user/netlify";
+import fb from "../../cmi-www/modules/_util/facebook";
+import {initTranscriptPage} from "../../cmi-www/modules/_page/startup";
 
 import {loadConfig} from "./modules/_config/config";
 import {bookmarkStart} from "./modules/_bookmark/start";
@@ -13,7 +13,7 @@ import toc, {getBookId} from "./modules/_contents/toc";
 import audio from "./modules/_audio/audio";
 import about from "./modules/_about/about";
 
-import {setLanguage} from "www/modules/_language/lang";
+import {setLanguage} from "../../cmi-www/modules/_language/lang";
 import constants from "./constants";
 
 $(document).ready(() => {
